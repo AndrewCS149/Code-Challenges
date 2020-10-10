@@ -1,2 +1,10 @@
 # Hackerrank
-A mixture of different hackerrank challenges written in C#.
+A mixture of different hackerrank written in C#.
+
+---
+
+### Challenges
+
+[Easy](Easy)
+[Medium](Medium)
+[Hard](Hard)
