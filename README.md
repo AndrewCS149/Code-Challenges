@@ -3,8 +3,14 @@ A mixture of different hackerrank written in C#.
 
 ---
 
-### Challenges
+## Table of Contents
 
-[Easy](Easy)
-[Medium](Medium)
-[Hard](Hard)
+#### Easy
+
+-[Compare the Triplets](/Easy/CompareTheTriplets/CompareTheTriplets)
+
+#### Medium
+
+- [Climbing the Leaderboard](Medium/ClimbingTheLeaderBoard/ClimbingTheLeaderBoard) - unfinished
+
+#### Hard
