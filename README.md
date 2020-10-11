@@ -7,7 +7,8 @@ A mixture of different hackerrank written in C#.
 
 #### Easy
 
--[Compare the Triplets](/Easy/CompareTheTriplets/CompareTheTriplets)
+- [Compare the Triplets](Easy/CompareTheTriplets/CompareTheTriplets)
+- [A Very Big Sum](Easy/VeryBigSum/VeryBigSum)
 
 #### Medium
 
