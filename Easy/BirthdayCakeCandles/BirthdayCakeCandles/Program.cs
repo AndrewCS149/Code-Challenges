@@ -19,10 +19,8 @@ namespace BirthdayCakeCandles
 
         public static int birthdayCakeCandles(List<int> candles)
         {
-            int max = candles[0];
+            int max = candles.Max();
             int count = 0;
-            foreach (int num in candles)
-                if (num > max) max = num;
 
             foreach (int num in candles)
                 if (num == max) count++;
