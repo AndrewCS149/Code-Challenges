@@ -13,6 +13,8 @@ A mixture of different hackerrank written in C#.
 - [Diagonal Difference](Easy/DiagonalDifference/DiagonalDifference)
 - [Plus Minus](Easy/PlusMinus/PlusMinus)
 - [Staircase](Easy/Staircase/Staircase)
+- [Birthday Cake Candles](Easy/BirthdayCakeCandles/BirthdayCakeCandles)
+- [Mini Max Sum](Easy/Mini-MaxSum/Mini-MaxSum)
 
 #### Medium
 
