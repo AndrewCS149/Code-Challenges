@@ -17,31 +17,20 @@ namespace Mini_MaxSum
         // Complete the miniMaxSum function below.
         private static void miniMaxSum(int[] arr)
         {
-            long[] tempArr = new long[5];
-            long min, max;
+            long min = arr[0], max = arr[0], totalSum = 0, maxSum, minSum;
 
-            for (int i = 0; i < arr.Length; i++)
-            {
-                long tempSum = 0;
-                for (int j = 0; j < arr.Length; j++)
-                {
-                    if (arr[i] == arr[j])
-                        continue;
-                    tempSum += arr[j];
-                }
-                tempArr[i] = tempSum;
-            }
-
-            min = tempArr[0];
-            max = tempArr[0];
-
-            foreach (long num in tempArr)
+            foreach (int num in arr)
             {
                 if (num < min) min = num;
-                else max = num;
+                if (num > max) max = num;
+
+                totalSum += num;
             }
 
-            Console.WriteLine($"{min} {max}");
+            minSum = totalSum - max;
+            maxSum = totalSum - min;
+
+            Console.WriteLine($"{minSum} {maxSum}");
         }
     }
 }
