@@ -31,6 +31,7 @@ A new problem is presented every day that must be completed daily. They will be 
 #### Easy
 
 - [Day 0: Hello, World](30DaysOfCode/Easy/Day0-HelloWorld/Day0-HelloWorld)
+- [Day 1: Data Types](30DaysOfCode/Easy/Day1-DataTypes/Day1-DataTypes)
 
 #### Medium
 
