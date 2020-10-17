@@ -16,6 +16,8 @@ A mixture of different hackerrank written in C#.
 - [Birthday Cake Candles](Easy/BirthdayCakeCandles/BirthdayCakeCandles)
 - [Mini Max Sum](Easy/Mini-MaxSum/Mini-MaxSum)
 - [Time Conversion](Easy/TimeConversion/TimeConversion)
+- [Grading Students](Easy/GradingStudents/GradingStudents)
+- [Day of the programmer](Easy/DayOfTheProgrammer/DayOfTheProgrammer)
 
 #### Medium
 
