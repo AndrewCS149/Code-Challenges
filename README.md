@@ -40,8 +40,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 2: Operators](30DaysOfCode/Easy/Day2-Operators/Day2-Operators)
 - [Day 3: Intro to Conditional Statements](30DaysOfCode/Easy/Day3-IntroConditionalStatements/Day3-IntroConditionalStatements)
 - [Day 4: Class vs. Instance](30DaysOfCode/Easy/Day4-ClassVsInstance/Day4-ClassVsInstance)
-
-
+- [Day 5: Loops](30DaysOfCode/Easy/Day5-Loops/Day5-Loops)
 
 #### Medium
 
