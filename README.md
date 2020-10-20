@@ -43,6 +43,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 5: Loops](30DaysOfCode/Easy/Day5-Loops/Day5-Loops)
 - [Day 6: Let's Review](30DaysOfCode/Easy/Day6-LetsReview/Day6-LetsReview)
 - [Day 7: Arrays](30DaysOfCode/Easy/Day7-Arrays/Day7-Arrays)
+- [Day 8: Dictionaries & Maps](30DaysOfCode/Easy/Day8-DictionariesAndMaps/Day8-DictionariesAndMaps)
 
 #### Medium
 
