@@ -18,6 +18,7 @@ A mixture of different hackerrank written in C#.
 - [Time Conversion](Easy/TimeConversion/TimeConversion)
 - [Grading Students](Easy/GradingStudents/GradingStudents)
 - [Day of the programmer](Easy/DayOfTheProgrammer/DayOfTheProgrammer)
+- [Divisible Sum Pairs](Easy/DivisibleSumPairs/DivisibleSumPairs)
 
 #### Medium
 
