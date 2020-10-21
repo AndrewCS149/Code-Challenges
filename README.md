@@ -19,6 +19,7 @@ A mixture of different hackerrank written in C#.
 - [Grading Students](Easy/GradingStudents/GradingStudents)
 - [Day of the programmer](Easy/DayOfTheProgrammer/DayOfTheProgrammer)
 - [Divisible Sum Pairs](Easy/DivisibleSumPairs/DivisibleSumPairs)
+- [Apple & Orange](Easy/AppleAndOrange/AppleAndOrange)
 
 #### Medium
 
