@@ -48,6 +48,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 7: Arrays](30DaysOfCode/Easy/Day7-Arrays/Day7-Arrays)
 - [Day 8: Dictionaries & Maps](30DaysOfCode/Easy/Day8-DictionariesAndMaps/Day8-DictionariesAndMaps)
 - [Day 9: Recursion 3](30DaysOfCode/Easy/Day9-Recursion-3/Day9-Recursion-3)
+- [Day 10: Binary Numbers](30DaysOfCode/Easy/Day10-BinaryNumbers/Day10-BinaryNumbers)
 
 #### Medium
 
