@@ -50,6 +50,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 9: Recursion 3](30DaysOfCode/Easy/Day9-Recursion-3/Day9-Recursion-3)
 - [Day 10: Binary Numbers](30DaysOfCode/Easy/Day10-BinaryNumbers/Day10-BinaryNumbers)
 - [Day 11: 2D arrays](30DaysOfCode/Easy/Day11-2dArrays/Day11-2dArrays)
+- [Day 12: Inheritance](30DaysOfCode/Easy/Day12-Inheritance/Day12-Inheritance)
 
 #### Medium
 
