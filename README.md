@@ -51,6 +51,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 10: Binary Numbers](30DaysOfCode/Easy/Day10-BinaryNumbers/Day10-BinaryNumbers)
 - [Day 11: 2D arrays](30DaysOfCode/Easy/Day11-2dArrays/Day11-2dArrays)
 - [Day 12: Inheritance](30DaysOfCode/Easy/Day12-Inheritance/Day12-Inheritance)
+- [Day 13: Abstract Classes](30DaysOfCode/Easy/Day13-AbstractClasses/Day13-AbstractClasses)
 
 #### Medium
 
