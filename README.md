@@ -53,6 +53,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 12: Inheritance](30DaysOfCode/Easy/Day12-Inheritance/Day12-Inheritance)
 - [Day 13: Abstract Classes](30DaysOfCode/Easy/Day13-AbstractClasses/Day13-AbstractClasses)
 - [Day 14: Scope](30DaysOfCode/Easy/Day14-Scope/Day14-Scope)
+- [Day 15: Linked List](30DaysOfCode/Easy/Day15-LinkedList/Day15-LinkedList)
 
 #### Medium
 
