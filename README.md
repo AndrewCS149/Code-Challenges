@@ -52,6 +52,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 11: 2D arrays](30DaysOfCode/Easy/Day11-2dArrays/Day11-2dArrays)
 - [Day 12: Inheritance](30DaysOfCode/Easy/Day12-Inheritance/Day12-Inheritance)
 - [Day 13: Abstract Classes](30DaysOfCode/Easy/Day13-AbstractClasses/Day13-AbstractClasses)
+- [Day 14: Scope](30DaysOfCode/Easy/Day14-Scope/Day14-Scope)
 
 #### Medium
 
