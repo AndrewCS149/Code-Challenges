@@ -20,6 +20,7 @@ A mixture of different hackerrank written in C#.
 - [Day of the programmer](Easy/DayOfTheProgrammer/DayOfTheProgrammer)
 - [Divisible Sum Pairs](Easy/DivisibleSumPairs/DivisibleSumPairs)
 - [Apple & Orange](Easy/AppleAndOrange/AppleAndOrange)
+- [Number Line Jumps](Easy/Number-Line-Jumps/Number-Line-Jumps)
 
 #### Medium
 
