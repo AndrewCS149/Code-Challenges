@@ -23,6 +23,7 @@ A mixture of different hackerrank written in C#.
 - [Number Line Jumps](Easy/Number-Line-Jumps/Number-Line-Jumps)
 - [Between Two Sets](Easy/Between-Two-Sets/Between-Two-Sets)
 - [Sub-Array Division](Easy/Sub-Array-Division/Sub-Array-Division)
+- [Bill Division](Easy/Bill-division/Bill-division)
 
 #### Medium
 
