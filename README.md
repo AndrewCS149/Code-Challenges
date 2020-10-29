@@ -24,6 +24,7 @@ A mixture of different hackerrank written in C#.
 - [Between Two Sets](Easy/Between-Two-Sets/Between-Two-Sets)
 - [Sub-Array Division](Easy/Sub-Array-Division/Sub-Array-Division)
 - [Bill Division](Easy/Bill-division/Bill-division)
+- [Breaking the Records](Easy/Breaking-the-Records/Breaking-the-Records)
 
 #### Medium
 
