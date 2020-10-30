@@ -62,6 +62,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 15: Linked List](30DaysOfCode/Easy/Day15-LinkedList/Day15-LinkedList)
 - [Day 16: Exceptions - String to Integer](30DaysOfCode/Easy/Day16-Exceptions-StringToInteger/Day16-Exceptions-StringToInteger)
 - [Day 17: More Exceptions](30DaysOfCode/Easy/Day17-More-Exceptions/Day17-More-Exceptions)
+- [Day 18: Queues and Stacks](30DaysOfCode/Easy/Day18-QueuesAndStacks/Day18-QueuesAndStacks)
 
 #### Medium
 
