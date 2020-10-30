@@ -25,6 +25,7 @@ A mixture of different hackerrank written in C#.
 - [Sub-Array Division](Easy/Sub-Array-Division/Sub-Array-Division)
 - [Bill Division](Easy/Bill-division/Bill-division)
 - [Breaking the Records](Easy/Breaking-the-Records/Breaking-the-Records)
+- [Migratory Birds](Easy/Migratory-Birds/Migratory-Birds)
 
 #### Medium
 
@@ -60,6 +61,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 14: Scope](30DaysOfCode/Easy/Day14-Scope/Day14-Scope)
 - [Day 15: Linked List](30DaysOfCode/Easy/Day15-LinkedList/Day15-LinkedList)
 - [Day 16: Exceptions - String to Integer](30DaysOfCode/Easy/Day16-Exceptions-StringToInteger/Day16-Exceptions-StringToInteger)
+- [Day 17: More Exceptions](30DaysOfCode/Easy/Day17-More-Exceptions/Day17-More-Exceptions)
 
 #### Medium
 
