@@ -26,6 +26,7 @@ A mixture of different hackerrank written in C#.
 - [Bill Division](Easy/Bill-division/Bill-division)
 - [Breaking the Records](Easy/Breaking-the-Records/Breaking-the-Records)
 - [Migratory Birds](Easy/Migratory-Birds/Migratory-Birds)
+- [Counting Valleys](Easy/Counting-Valleys/Counting-Valleys)
 
 #### Medium
 
