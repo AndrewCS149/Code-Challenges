@@ -33,9 +33,9 @@ namespace Counting_Valleys
         {
             int elev = 0, valleys = 0;
             bool inValley = false;
-            foreach (var item in path)
+            foreach (var step in path)
             {
-                elev = item == 'U' ? ++elev : --elev;
+                elev = step == 'U' ? ++elev : --elev;
 
                 if (elev < 0) inValley = true;
                 else if (inValley == true && elev == 0)
