@@ -67,6 +67,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 19: Interfaces](30DaysOfCode/Easy/Day19-Interfaces/Day19-Interfaces)
 - [Day 20: Sorting](30DaysOfCode/Easy/Day20-Sorting/Day20-Sorting)
 - [Day 21: Generics](30DaysOfCode/Easy/Day21-Generics/Day21-Generics)
+- [Day 22: BST](30DaysOfCode/Easy/Day20-BST/Day20-BST)
 
 #### Medium
 
