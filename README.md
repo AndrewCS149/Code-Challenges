@@ -27,8 +27,9 @@ A mixture of different hackerrank written in C#.
 - [Breaking the Records](Easy/Breaking-the-Records/Breaking-the-Records)
 - [Migratory Birds](Easy/Migratory-Birds/Migratory-Birds) - unfinished
 - [Counting Valleys](Easy/Counting-Valleys/Counting-Valleys)
-- [Sales by Match](Easy/SalesByMatch/SalesByMatch)\
+- [Sales by Match](Easy/SalesByMatch/SalesByMatch)
 - [Electronics Shop](Easy/ElectronicsShop/ElectronicsShop)
+- [Cats and a Mouse](Easy/CatsAndAMouse/CatsAndAMouse)
 
 #### Medium
 
