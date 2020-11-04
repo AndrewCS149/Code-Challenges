@@ -25,8 +25,9 @@ A mixture of different hackerrank written in C#.
 - [Sub-Array Division](Easy/Sub-Array-Division/Sub-Array-Division)
 - [Bill Division](Easy/Bill-division/Bill-division)
 - [Breaking the Records](Easy/Breaking-the-Records/Breaking-the-Records)
-- [Migratory Birds](Easy/Migratory-Birds/Migratory-Birds)
+- [Migratory Birds](Easy/Migratory-Birds/Migratory-Birds) - unfinished
 - [Counting Valleys](Easy/Counting-Valleys/Counting-Valleys)
+- [Sales by Match](Easy/SalesByMatch/SalesByMatch)
 
 #### Medium
 
