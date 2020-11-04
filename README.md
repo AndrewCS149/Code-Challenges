@@ -27,7 +27,8 @@ A mixture of different hackerrank written in C#.
 - [Breaking the Records](Easy/Breaking-the-Records/Breaking-the-Records)
 - [Migratory Birds](Easy/Migratory-Birds/Migratory-Birds) - unfinished
 - [Counting Valleys](Easy/Counting-Valleys/Counting-Valleys)
-- [Sales by Match](Easy/SalesByMatch/SalesByMatch)
+- [Sales by Match](Easy/SalesByMatch/SalesByMatch)\
+- [Electronics Shop](Easy/ElectronicsShop/ElectronicsShop)
 
 #### Medium
 
@@ -71,6 +72,3 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 22: BST](30DaysOfCode/Easy/Day20-BST/Day20-BST)
 - [Day 23: BST Level-Order-Traversal](30DaysOfCode/Easy/Day23-BST-Level-Order-Traversal/Day23-BST-Level-Order-Traversal)
 
-#### Medium
-
-#### Hard 
