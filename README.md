@@ -75,4 +75,4 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 21: Generics](30DaysOfCode/Easy/Day21-Generics/Day21-Generics)
 - [Day 22: BST](30DaysOfCode/Easy/Day20-BST/Day20-BST)
 - [Day 23: BST Level-Order-Traversal](30DaysOfCode/Easy/Day23-BST-Level-Order-Traversal/Day23-BST-Level-Order-Traversal)
-
+- [Day 24: More Linked Lists](30DaysOfCode/Easy/Day24-MoreLinkedLists/Day24-MoreLinkedLists)
