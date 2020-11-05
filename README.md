@@ -31,6 +31,7 @@ A mixture of different hackerrank written in C#.
 - [Electronics Shop](Easy/ElectronicsShop/ElectronicsShop)
 - [Cats and a Mouse](Easy/CatsAndAMouse/CatsAndAMouse)
 - [Drawing Book](Easy/DrawingBook/DrawingBook)
+- [The Hurdle Race](Easy/TheHurdleRace/TheHurdleRace)
 
 #### Medium
 
