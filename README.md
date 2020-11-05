@@ -30,6 +30,7 @@ A mixture of different hackerrank written in C#.
 - [Sales by Match](Easy/SalesByMatch/SalesByMatch)
 - [Electronics Shop](Easy/ElectronicsShop/ElectronicsShop)
 - [Cats and a Mouse](Easy/CatsAndAMouse/CatsAndAMouse)
+- [Drawing Book](Easy/DrawingBook/DrawingBook)
 
 #### Medium
 
