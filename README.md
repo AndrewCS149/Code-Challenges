@@ -33,6 +33,7 @@ A mixture of different hackerrank written in C#.
 - [Drawing Book](Easy/DrawingBook/DrawingBook)
 - [The Hurdle Race](Easy/TheHurdleRace/TheHurdleRace)
 - [Picking numbers](Easy/PickingNumbers/PickingNumbers)
+- [Save the Prisoner](Easy/SaveThePrisoner/SaveThePrisoner)
 
 #### Medium
 
