@@ -80,3 +80,7 @@ A new problem is presented every day that must be completed daily. They will be 
 - [Day 25: Running Time & Complexity](30DaysOfCode/Easy/Day25-RunningTimeAndComplexity/Day25-RunningTimeAndComplexity)
 - [Day 26: Nested Logic](30DaysOfCode/Easy/Day26-NestedLogic/Day26-NestedLogic)
 - [Day 27: Testing](30DaysOfCode/Easy/Day27-Testing/Day27-Testing)
+
+#### Medium
+
+-[Day 28: Regex, Patterns & Intro To Databases](30DaysOfCode/Medium/Day28-RegexPatternsAndIntroToDBs/Day28-RegexPatternsAndIntroToDBs)
