@@ -84,3 +84,4 @@ A new problem is presented every day that must be completed daily. They will be 
 #### Medium
 
 -[Day 28: Regex, Patterns & Intro To Databases](30DaysOfCode/Medium/Day28-RegexPatternsAndIntroToDBs/Day28-RegexPatternsAndIntroToDBs)
+-[Day 29: Bitwise AND](30DaysOfCode/Medium/Day29-BitwiseAND/Day29-BitwiseAND)
