@@ -34,6 +34,7 @@ A mixture of different hackerrank written in C#.
 - [The Hurdle Race](Easy/TheHurdleRace/TheHurdleRace)
 - [Picking numbers](Easy/PickingNumbers/PickingNumbers)
 - [Save the Prisoner](Easy/SaveThePrisoner/SaveThePrisoner)
+- [Angry Professor](Easy/AngryProfessor/AngryProfessor)
 
 #### Medium
 
