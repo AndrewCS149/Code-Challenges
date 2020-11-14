@@ -35,6 +35,7 @@ A mixture of different hackerrank written in C#.
 - [Picking numbers](Easy/PickingNumbers/PickingNumbers)
 - [Save the Prisoner](Easy/SaveThePrisoner/SaveThePrisoner)
 - [Angry Professor](Easy/AngryProfessor/AngryProfessor)
+- [Find Digits](Easy/FindDigits/FindDigits)
 
 #### Medium
 
