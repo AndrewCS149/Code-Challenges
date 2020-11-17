@@ -37,6 +37,7 @@ A mixture of different hackerrank written in C#.
 - [Angry Professor](Easy/AngryProfessor/AngryProfessor)
 - [Find Digits](Easy/FindDigits/FindDigits)
 - [Beautiful Days at the Movies](Easy/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMovies)
+- [Utopian Tree](Easy/UtopianTree/UtopianTree)
 
 #### Medium
 
