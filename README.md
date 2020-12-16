@@ -43,6 +43,7 @@ A mixture of different hackerrank written in C#.
 - [Library Fine](Easy/LibraryFine/LibraryFine)
 - [Cut the Sticks](Easy/CutTheSticks/CutTheSticks)
 - [Jumping on the Clouds](Easy/JumpingOnTheClouds/JumpingOnTheClouds)
+- [Equalize the Array](Easy/EqualizeTheArray/EqualizeTheArray)
 
 #### Medium
 
