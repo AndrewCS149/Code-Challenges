@@ -42,6 +42,7 @@ A mixture of different hackerrank written in C#.
 - [Designer PDF Viewer](Easy/DesignerPDFViewer/DesignerPDFViewer)
 - [Library Fine](Easy/LibraryFine/LibraryFine)
 - [Cut the Sticks](Easy/CutTheSticks/CutTheSticks)
+- [Jumping on the Clouds](Easy/JumpingOnTheClouds/JumpingOnTheClouds)
 
 #### Medium
 
