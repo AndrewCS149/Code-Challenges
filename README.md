@@ -39,7 +39,9 @@ A mixture of different hackerrank written in C#.
 - [Beautiful Days at the Movies](Easy/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMovies)
 - [Utopian Tree](Easy/UtopianTree/UtopianTree)
 - [Viral Advertising](Easy/ViralAdvertising/ViralAdvertising)
-- [Designer PDF Viewer](Easy/DesignerPDFViewer)
+- [Designer PDF Viewer](Easy/DesignerPDFViewer/DesignerPDFViewer)
+- [Library Fine](Easy/LibraryFine/LibraryFine)
+- [Cut the Sticks](Easy/CutTheSticks/CutTheSticks)
 
 #### Medium
 
