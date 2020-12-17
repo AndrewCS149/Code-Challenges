@@ -44,6 +44,7 @@ A mixture of different hackerrank written in C#.
 - [Cut the Sticks](Easy/CutTheSticks/CutTheSticks)
 - [Jumping on the Clouds](Easy/JumpingOnTheClouds/JumpingOnTheClouds)
 - [Equalize the Array](Easy/EqualizeTheArray/EqualizeTheArray)
+- [Repeated String](Easy/RepeatedString/RepeatedString)
 
 #### Medium
 
