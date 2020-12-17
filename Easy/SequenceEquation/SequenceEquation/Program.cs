@@ -21,7 +21,7 @@ namespace SequenceEquation
             for (int i = 1; i <= p.Length; i++)
             {
                 int idx = Array.IndexOf(p, i) + 1;
-                arr[i - 1] = Array.IndexOf(p, idx);
+                arr[i - 1] = Array.IndexOf(p, idx) + 1;
             }
             return arr;
         }

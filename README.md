@@ -51,6 +51,7 @@ A mixture of different hackerrank written in C#.
 
 - [Climbing the Leaderboard](Medium/ClimbingTheLeaderBoard/ClimbingTheLeaderBoard) - unfinished
 - [Organizing Containers of Balls](Medium/OrganizingContainerOfBalls/OrganizingContainerOfBalls)
+- [The Time in Words](Medium/TimeInWords/TimeInWords)
 
 #### Hard
 
