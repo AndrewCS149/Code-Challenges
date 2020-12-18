@@ -17,11 +17,9 @@ namespace TimeInWords
 
         private static string timeInWords(int h, int m)
         {
-            string min = "";
-            string hr = "";
+            string min;
+            string hr;
             string time = "";
-            hr = TimeStr(h);
-            min = TensPlace(m);
 
             if (m == 00)
                 time = $"{TimeStr(h)} o' clock";

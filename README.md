@@ -45,7 +45,8 @@ A mixture of different hackerrank written in C#.
 - [Jumping on the Clouds](Easy/JumpingOnTheClouds/JumpingOnTheClouds)
 - [Equalize the Array](Easy/EqualizeTheArray/EqualizeTheArray)
 - [Repeated String](Easy/RepeatedString/RepeatedString)
-- [Sequence Equation](Easy/SequenceEquation/SequenceEquatino)
+- [Sequence Equation](Easy/SequenceEquation/SequenceEquation)
+- [Minimum Distances](Easy/MinimumDistances/MinimumDistances)
 
 #### Medium
 
