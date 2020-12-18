@@ -47,6 +47,7 @@ A mixture of different hackerrank written in C#.
 - [Repeated String](Easy/RepeatedString/RepeatedString)
 - [Sequence Equation](Easy/SequenceEquation/SequenceEquation)
 - [Minimum Distances](Easy/MinimumDistances/MinimumDistances)
+- [Jumping on the Clouds](Easy/JumpingOnTheClouds2/JumpingOnTheClouds2)
 
 #### Medium
 
