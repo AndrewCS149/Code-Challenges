@@ -50,6 +50,7 @@ A mixture of different hackerrank written in C#.
 - [Jumping on the Clouds](Easy/JumpingOnTheClouds2/JumpingOnTheClouds2)
 - [Beautiful Triplets](Easy/BeautifulTriplets/BeautifulTriplets)
 - [Migratory Birds](Easy/MigratoryBirds/MigratoryBirds)
+- [Taum and B'day](Easy/TaumAndBday/TaumAndBday)
 
 #### Medium
 
