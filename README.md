@@ -52,6 +52,7 @@ A mixture of different hackerrank written in C#.
 - [Migratory Birds](Easy/MigratoryBirds/MigratoryBirds)
 - [Taum and B'day](Easy/TaumAndBday/TaumAndBday)
 - [Halloween Sale](Easy/HalloweenSale/HalloweenSale)
+- [Service Lane](Easy/ServiceLane/ServiceLane)
 
 #### Medium
 
