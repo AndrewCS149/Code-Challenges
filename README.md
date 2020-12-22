@@ -53,6 +53,7 @@ A mixture of different hackerrank written in C#.
 - [Taum and B'day](Easy/TaumAndBday/TaumAndBday)
 - [Halloween Sale](Easy/HalloweenSale/HalloweenSale)
 - [Service Lane](Easy/ServiceLane/ServiceLane)
+- [Chocolate Feast](Easy/ChocolateFeast/ChocolateFeast)
 
 #### Medium
 
