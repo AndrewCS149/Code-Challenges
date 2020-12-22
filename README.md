@@ -54,6 +54,7 @@ A mixture of different hackerrank written in C#.
 - [Halloween Sale](Easy/HalloweenSale/HalloweenSale)
 - [Service Lane](Easy/ServiceLane/ServiceLane)
 - [Chocolate Feast](Easy/ChocolateFeast/ChocolateFeast)
+- [Fair Rotaions](Easy/FairRotations/FairRotations)
 
 #### Medium
 
