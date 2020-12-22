@@ -27,19 +27,15 @@ namespace ServiceLane
             }
 
             int[] result = serviceLane(width, cases);
-            //Array.ForEach(result, x => Console.WriteLine(x));
+            Array.ForEach(result, x => Console.WriteLine(x));
             Console.WriteLine(result);
         }
 
         private static int[] serviceLane(int[] width, int[][] cases)
         {
             int[] answers = new int[cases.Length];
-
             for (int i = 0; i < cases.Length; i++)
-            {
-                var arr = new ArraySegment<int>(width, cases[i][0], cases[i][1] - cases[i][0]);
-                answers[i] = arr.Min();
-            }
+                answers[i] = new ArraySegment<int>(width, cases[i][0], cases[i][1] - cases[i][0] + 1).Min();
 
             return answers;
         }
