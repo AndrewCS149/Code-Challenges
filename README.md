@@ -57,6 +57,7 @@ A mixture of different hackerrank written in C#.
 - [Fair Rotaions](Easy/FairRotations/FairRotations)
 - [IntroToTutorial](Easy/IntroToTutorial/IntroToTutorial)
 - [Camel Case](Easy/CamelCase/CamelCase)
+- [Correctness and the Loop Invariant](Easy/CorrectnessandtheLoopInvariant/CorrectnessandtheLoopInvariant)
 
 #### Medium
 
