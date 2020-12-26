@@ -55,6 +55,7 @@ A mixture of different hackerrank written in C#.
 - [Service Lane](Easy/ServiceLane/ServiceLane)
 - [Chocolate Feast](Easy/ChocolateFeast/ChocolateFeast)
 - [Fair Rotaions](Easy/FairRotations/FairRotations)
+- [IntroToTutorial](Easy/IntroToTutorial/IntroToTutorial)
 
 #### Medium
 
