@@ -56,6 +56,7 @@ A mixture of different hackerrank written in C#.
 - [Chocolate Feast](Easy/ChocolateFeast/ChocolateFeast)
 - [Fair Rotaions](Easy/FairRotations/FairRotations)
 - [IntroToTutorial](Easy/IntroToTutorial/IntroToTutorial)
+- [Camel Case](Easy/CamelCase/CamelCase)
 
 #### Medium
 
