@@ -58,6 +58,7 @@ A mixture of different hackerrank written in C#.
 - [IntroToTutorial](Easy/IntroToTutorial/IntroToTutorial)
 - [Camel Case](Easy/CamelCase/CamelCase)
 - [Correctness and the Loop Invariant](Easy/CorrectnessandtheLoopInvariant/CorrectnessandtheLoopInvariant)
+- [Lisas Workbook](Easy/LisasWorkbook/LisasWorkbook)
 
 #### Medium
 
