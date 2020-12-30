@@ -62,6 +62,7 @@ A mixture of different hackerrank written in C#.
 - [Mars Exploration](Easy/MarsExploration/MarsExploration)
 - [HackerRank in a String](Easy/HackerrankInAString/HackerrankInAString)
 - [Cavity Map](Easy/CavityMap/CavityMap)
+- [Manasa & Stones](Easy/ManasaAndStones/ManasaAndStones)
 
 #### Medium
 
