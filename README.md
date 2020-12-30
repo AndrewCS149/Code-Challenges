@@ -61,6 +61,7 @@ A mixture of different hackerrank written in C#.
 - [Lisas Workbook](Easy/LisasWorkbook/LisasWorkbook)
 - [Mars Exploration](Easy/MarsExploration/MarsExploration)
 - [HackerRank in a String](Easy/HackerrankInAString/HackerrankInAString)
+- [Cavity Map](Easy/CavityMap/CavityMap)
 
 #### Medium
 
