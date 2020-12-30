@@ -60,6 +60,7 @@ A mixture of different hackerrank written in C#.
 - [Correctness and the Loop Invariant](Easy/CorrectnessandtheLoopInvariant/CorrectnessandtheLoopInvariant)
 - [Lisas Workbook](Easy/LisasWorkbook/LisasWorkbook)
 - [Mars Exploration](Easy/MarsExploration/MarsExploration)
+- [HackerRank in a String](Easy/HackerrankInAString/HackerrankInAString)
 
 #### Medium
 
