@@ -63,6 +63,7 @@ A mixture of different hackerrank written in C#.
 - [HackerRank in a String](Easy/HackerrankInAString/HackerrankInAString)
 - [Cavity Map](Easy/CavityMap/CavityMap)
 - [Manasa & Stones](Easy/ManasaAndStones/ManasaAndStones)
+- [Pangrams](Easy/Pangrams/Pangrams)
 
 #### Medium
 
