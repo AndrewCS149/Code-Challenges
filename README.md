@@ -65,6 +65,7 @@ A mixture of different hackerrank written in C#.
 - [Manasa & Stones](Easy/ManasaAndStones/ManasaAndStones)
 - [Pangrams](Easy/Pangrams/Pangrams)
 - [Funny String](Easy/FunnyString/FunnyString)
+- [The Love Letter Mystery](Easy/LoveLetterMyster/LoveLetterMystery)
 
 #### Medium
 
