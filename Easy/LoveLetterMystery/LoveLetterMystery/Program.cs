@@ -23,10 +23,10 @@ namespace LoveLetterMystery
         private static int theLoveLetterMystery(string s)
         {
             int count = 0;
-            for (int i = 0, k = s.Length - 1; i < s.Length / 2; i++, k--)
+            for (int i = 0; i < s.Length / 2; i++)
             {
                 int num1 = Convert.ToInt32(s[i]);
-                int num2 = Convert.ToInt32(s[k]);
+                int num2 = Convert.ToInt32(s[s.Length - (i + 1)]);
                 count += Math.Abs(num1 - num2);
             }
 
