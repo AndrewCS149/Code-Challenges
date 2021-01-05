@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace StringConstruction
 {
@@ -22,6 +23,14 @@ namespace StringConstruction
 
         private static int stringConstruction(string s)
         {
+            HashSet<char> set = new HashSet<char>();
+
+            foreach (char ch in s)
+            {
+                set.Add(ch);
+            }
+
+            return set.Count;
         }
     }
 }
