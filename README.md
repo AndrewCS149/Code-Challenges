@@ -69,6 +69,7 @@ A mixture of different hackerrank written in C#.
 - [Beautiful Binary String](Easy/BeautifulBinaryString/BeautifulBinaryString)
 - [Running Time of Algorithms](Easy/RunningTime/RunningTime)
 - [InsertionSort](Easy/InsertionSort/InsertionSort)
+- [InsertionSort2](Easy/InsertionSort2/InsertionSort2)
 
 #### Medium
 
