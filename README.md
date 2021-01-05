@@ -68,6 +68,7 @@ A mixture of different hackerrank written in C#.
 - [The Love Letter Mystery](Easy/LoveLetterMyster/LoveLetterMystery)
 - [Beautiful Binary String](Easy/BeautifulBinaryString/BeautifulBinaryString)
 - [Running Time of Algorithms](Easy/RunningTime/RunningTime)
+- [InsertionSort](Easy/InsertionSort/InsertionSort)
 
 #### Medium
 
