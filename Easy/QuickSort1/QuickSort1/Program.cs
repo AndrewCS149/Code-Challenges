@@ -25,7 +25,7 @@ namespace QuickSort1
             List<int> last = new List<int>();
             Array.ForEach(arr, x =>
             {
-                if (x <= pivot) first.Add(x);
+                if (x < pivot) first.Add(x);
                 else last.Add(x);
             });
 

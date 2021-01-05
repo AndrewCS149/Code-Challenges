@@ -71,6 +71,7 @@ A mixture of different hackerrank written in C#.
 - [InsertionSort](Easy/InsertionSort/InsertionSort)
 - [InsertionSort2](Easy/InsertionSort2/InsertionSort2)
 - [QuickSort1](Easy/QuickSort1/QuickSort1)
+- [Counting Sort 1](Easy/CountingSort1/CountingSort1)
 
 #### Medium
 
