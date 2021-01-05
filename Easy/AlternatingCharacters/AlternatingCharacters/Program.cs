@@ -24,17 +24,11 @@ namespace AlternatingCharacters
         private static int alternatingCharacters(string s)
         {
             if (s.Length == 1) return 0;
+
             int count = 0;
             for (int i = 1; i < s.Length; i++)
-            {
-                char temp = s[i - 1];
-                if (s[i] == temp)
-                {
-                    s = s.Remove(i, 1);
-                    i--;
-                    count++;
-                }
-            }
+                if (s[i] == s[i - 1]) count++;
+
             return count;
         }
     }
