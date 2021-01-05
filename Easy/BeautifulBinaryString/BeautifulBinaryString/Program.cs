@@ -21,7 +21,7 @@ namespace BeautifulBinaryString
         {
             if (!b.Contains("010")) return 0;
 
-            int count = b.Length - b.Replace("010", "").Length / 3;\
+            int count = (b.Length - b.Replace("010", "").Length) / 3;
             return count;
         }
     }
