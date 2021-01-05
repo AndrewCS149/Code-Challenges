@@ -27,9 +27,7 @@ namespace CountingSort2
             for (int i = 0; i < range.Length; i++)
             {
                 for (int k = 0; k < range[i]; k++)
-                {
                     list.Add(i);
-                }
             }
 
             return list.ToArray();
