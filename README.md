@@ -77,7 +77,9 @@ A mixture of different hackerrank written in C#.
 - [Gemstones](Easy/Gemstones/Gemstones)
 - [Game of Thrones 1](Easy/GameOfThrones/GameOfThrones1)
 - [String Construction](Easy/StringConstruction/StringConstruction)
-- [Marks Cakewalk](Easy/MarksCakewalk/MarksCakewalk)Î
+- [Marks Cakewalk](Easy/MarksCakewalk/MarksCakewalk)
+- [Mark and Toys](Easy/MarkAndToys/MarkAndToys)
+- [Luck Balance](Easy/LuckBalance/LuckBalance)Î
 
 #### Medium
 
