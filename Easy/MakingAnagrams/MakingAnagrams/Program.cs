@@ -25,7 +25,6 @@ namespace MakingAnagrams
 
             for (int i = 0; i < minStr.Length; i++)
             {
-                string sub = maxStr.Substring(i);
                 if (maxStr.Contains(minStr[i]))
                 {
                     maxStr = maxStr.Remove(maxStr.IndexOf(minStr[i]), 1);
