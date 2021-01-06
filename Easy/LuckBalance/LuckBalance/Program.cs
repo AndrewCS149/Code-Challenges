@@ -30,32 +30,44 @@ namespace LuckBalance
 
         private static int luckBalance(int k, int[][] contests)
         {
-            List<int> list = new List<int>();
-            int importants = 0, luckSum = 0;
+            // MY SOLUTION
+            //List<int> list = new List<int>();
+            //int importants = 0, luckSum = 0;
 
-            for (int i = 0; i < contests.Length; i++)
-            {
-                if (contests[i][1] == 1)
-                {
-                    importants++;
-                    list.Add(contests[i][0]);
-                }
-                else luckSum += contests[i][0];
-            }
+            //for (int i = 0; i < contests.Length; i++)
+            //{
+            //    if (contests[i][1] == 1)
+            //    {
+            //        importants++;
+            //        list.Add(contests[i][0]);
+            //    }
+            //    else luckSum += contests[i][0];
+            //}
 
-            list.Sort();
+            //list.Sort();
 
-            int diff = importants - k;
-            bool lose = false;
-            for (int i = 0; i < list.Count; i++)
-            {
-                if (i >= diff) lose = true;
+            //int diff = importants - k;
+            //bool lose = false;
+            //for (int i = 0; i < list.Count; i++)
+            //{
+            //    if (i >= diff) lose = true;
 
-                if (lose) luckSum += list[i];
-                else luckSum -= list[i];
-            }
+            //    if (lose) luckSum += list[i];
+            //    else luckSum -= list[i];
+            //}
 
-            return luckSum;
+            //return luckSum;
+
+            // ONLINE SOLUTION
+            var minLosses = contests
+                .Where(x => x[1] == 1)
+                .OrderByDescending(x => x[0])
+                .Skip(k)
+                .Sum(x => x[0]);
+
+            var totalVal = contests.Sum(x => x[0]);
+
+            return totalVal - (minLosses * 2);
         }
     }
 }

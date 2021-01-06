@@ -79,7 +79,8 @@ A mixture of different hackerrank written in C#.
 - [String Construction](Easy/StringConstruction/StringConstruction)
 - [Marks Cakewalk](Easy/MarksCakewalk/MarksCakewalk)
 - [Mark and Toys](Easy/MarkAndToys/MarkAndToys)
-- [Luck Balance](Easy/LuckBalance/LuckBalance)Î
+- [Luck Balance](Easy/LuckBalance/LuckBalance)
+- [Ice Cream Parlor](Easy/IceCreamParlor/IceCreamParlor)Î
 
 #### Medium
 
