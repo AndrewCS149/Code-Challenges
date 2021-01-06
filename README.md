@@ -80,7 +80,8 @@ A mixture of different hackerrank written in C#.
 - [Marks Cakewalk](Easy/MarksCakewalk/MarksCakewalk)
 - [Mark and Toys](Easy/MarkAndToys/MarkAndToys)
 - [Luck Balance](Easy/LuckBalance/LuckBalance)
-- [Ice Cream Parlor](Easy/IceCreamParlor/IceCreamParlor)Î
+- [Ice Cream Parlor](Easy/IceCreamParlor/IceCreamParlor)
+- [Making Anagrams](Easy/MakingAnagrams/MakingAnagrams)Î
 
 #### Medium
 

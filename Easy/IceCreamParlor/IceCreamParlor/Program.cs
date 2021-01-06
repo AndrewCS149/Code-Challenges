@@ -34,7 +34,7 @@ namespace IceCreamParlor
                         return new int[] { ++i, ++k };
                 }
             }
-            return new int[] { -1, -1 }
+            return new int[] { -1, -1 };
         }
     }
 }
