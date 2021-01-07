@@ -15,7 +15,7 @@ namespace ExtraLongFactorials
 
         private static void extraLongFactorials(int n)
         {
-            Console.WriteLine(Factorial((ulong)n));
+            Console.WriteLine(Factorial(n));
         }
 
         private static BigInteger Factorial(int n)

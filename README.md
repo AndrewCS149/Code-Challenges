@@ -89,6 +89,7 @@ A mixture of different hackerrank written in C#.
 - [Organizing Containers of Balls](Medium/OrganizingContainerOfBalls/OrganizingContainerOfBalls)
 - [The Time in Words](Medium/TimeInWords/TimeInWords)
 - [Extra Long Factorials](Medium/ExtraLongFactorials/ExtraLongFactorials)
+- [Greedy Florist](Medium/GreedyFlorist/GreedyFlorist)
 
 #### Hard
 
