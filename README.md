@@ -82,6 +82,7 @@ A mixture of different hackerrank written in C#.
 - [Luck Balance](Easy/LuckBalance/LuckBalance)
 - [Ice Cream Parlor](Easy/IceCreamParlor/IceCreamParlor)
 - [Making Anagrams](Easy/MakingAnagrams/MakingAnagrams)Î
+- [Mark and Toys 2](Easy/MarkAndToys2/MarkAndToys2)
 
 #### Medium
 
