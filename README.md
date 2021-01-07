@@ -84,6 +84,7 @@ A mixture of different hackerrank written in C#.
 - [Making Anagrams](Easy/MakingAnagrams/MakingAnagrams)Î
 - [Mark and Toys 2](Easy/MarkAndToys2/MarkAndToys2)
 - [Lonely Integer](Easy/LonelyInteger/LonelyInteger)
+- [Flipping Bits](Easy/FlippingBits/FlippingBits)
 
 #### Medium
 
