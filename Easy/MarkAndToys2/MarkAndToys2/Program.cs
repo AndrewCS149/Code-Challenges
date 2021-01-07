@@ -32,12 +32,6 @@ namespace MarkAndToys2
                 count++;
             }
 
-            for (int i = 0; i < prices.Length; i++)
-            {
-                spent += prices[i];
-                if (spent > k) break;
-                count++;
-            }
             return count;
         }
     }
