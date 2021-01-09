@@ -23,7 +23,7 @@ namespace FlippingBits
         private static long flippingBits(long n)
         {
             // NOT MY SOLUTION
-            return ~(uint)n;
+            return ~n;
         }
     }
 }

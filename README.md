@@ -85,6 +85,7 @@ A mixture of different hackerrank written in C#.
 - [Mark and Toys 2](Easy/MarkAndToys2/MarkAndToys2)
 - [Lonely Integer](Easy/LonelyInteger/LonelyInteger)
 - [Flipping Bits](Easy/FlippingBits/FlippingBits)
+- [Permuting Two Array](Easy/PermutingTwoArays/PermutingTwoArrays)
 
 #### Medium
 
