@@ -1,4 +1,4 @@
-# Hackerrank
+# Code Challenges
 A mixture of different hackerrank written in C#.
 
 ---
@@ -81,7 +81,7 @@ A mixture of different hackerrank written in C#.
 - [Mark and Toys](Easy/MarkAndToys/MarkAndToys)
 - [Luck Balance](Easy/LuckBalance/LuckBalance)
 - [Ice Cream Parlor](Easy/IceCreamParlor/IceCreamParlor)
-- [Making Anagrams](Easy/MakingAnagrams/MakingAnagrams)Î
+- [Making Anagrams](Easy/MakingAnagrams/MakingAnagrams)ÃŽ
 - [Mark and Toys 2](Easy/MarkAndToys2/MarkAndToys2)
 - [Lonely Integer](Easy/LonelyInteger/LonelyInteger)
 - [Flipping Bits](Easy/FlippingBits/FlippingBits)
