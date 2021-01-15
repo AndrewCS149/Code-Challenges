@@ -8,7 +8,13 @@ namespace BinaryTreeCorrespondingNode
         // link to challenge - https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr = new int[10];
+            foreach (int num in arr)
+            {
+                arr[num] = 10;
+                Console.Write(num + " ");
+            }
+            Console.WriteLine();
         }
 
         // NOT MY SOLUTION
