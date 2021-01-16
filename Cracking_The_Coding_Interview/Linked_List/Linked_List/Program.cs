@@ -9,10 +9,13 @@ namespace Linked_List
         {
             SinglyLinkedList<int> sll = new SinglyLinkedList<int>();
 
-            sll.AddLast(4, 5, 4, 3, 1, 2, 4);
+            sll.AddLast(4, 5, 4, 3, 3, 3, 1, 2, 4);
             sll.Print();
-            Console.WriteLine(sll.KthFromLast(1));
+
+            sll.DeleteMiddleNode(5);
             Console.WriteLine();
+            sll.Print();
+            Console.WriteLine(sll.Count);
         }
     }
 
@@ -79,6 +82,26 @@ namespace Linked_List
             return default(T);
         }
 
+        public void DeleteMiddleNode(T val)
+        {
+            if (Count <= 2) return;
+
+            var lead = Head.Next;
+            var trail = Head;
+            while (lead != null)
+            {
+                if (lead.Val.Equals(val))
+                {
+                    Count--;
+                    lead = lead.Next;
+                    trail.Next = lead;
+                    return;
+                }
+                lead = lead.Next;
+                trail = trail.Next;
+            }
+        }
+
         public void RemoveDupes()
         {
             if (Count <= 1) return;
@@ -92,9 +115,8 @@ namespace Linked_List
             {
                 if (!set.Add(lead.Val))
                 {
-                    var tmp = lead.Next;
-                    trail.Next = tmp;
-                    lead = tmp;
+                    lead = lead.Next;
+                    trail.Next = lead;
                     Count--;
                 }
                 else
