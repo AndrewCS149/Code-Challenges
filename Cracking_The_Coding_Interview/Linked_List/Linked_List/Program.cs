@@ -9,12 +9,10 @@ namespace Linked_List
         {
             SinglyLinkedList<int> sll = new SinglyLinkedList<int>();
 
-            sll.AddLast(1, 5, 5, 5, 4, 3, 3, 3, 2, 1, 1, 5);
+            sll.AddLast(4, 5, 4, 3, 1, 2, 4);
             sll.Print();
+            Console.WriteLine(sll.KthFromLast(1));
             Console.WriteLine();
-            sll.RemoveDupes();
-            sll.Print();
-            Console.WriteLine(sll.Count);
         }
     }
 
@@ -57,6 +55,28 @@ namespace Linked_List
                 current = current.Next;
             }
             Console.WriteLine();
+        }
+
+        public T KthFromLast(int target)
+        {
+            if (Head == null) return default(T);
+
+            if (target < 1 || target > Count)
+                throw new ArgumentOutOfRangeException("target can not be greater than list count or less than zero");
+
+            var current = Head;
+            int idx = 0;
+            while (current != null)
+            {
+                if (target == Count - idx)
+                    return current.Val;
+
+                current = current.Next;
+                idx++;
+            }
+
+            // will not be hit
+            return default(T);
         }
 
         public void RemoveDupes()
