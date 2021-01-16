@@ -6,3 +6,4 @@
 - [Palindrome Permutation](Palindrome_Permutation/Palindrome_Permutation)
 - [One Way](One_Way/One_Way)
 - [String Compression](StringCompression/String/Compression)
+- [RotateMatrix](Rotate_Matrix/Rotate_Matrix)
