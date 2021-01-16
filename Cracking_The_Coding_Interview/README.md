@@ -1,5 +1,8 @@
 ## Table of Contents
 
+
+#### String and Array Manipulation
+
 - [Is Unique](Is_Unique/Is_Unique)
 - [Check Permutation](CheckPermutation/CheckPermutation)
 - [URLify](URL_ify/URL_ify)
@@ -9,3 +12,8 @@
 - [RotateMatrix](Rotate_Matrix/Rotate_Matrix)
 - [Zero Matrix](Zero_Matrix/Zero_Matrix)
 - [String Rotation](String_Rotation/String_Rotation)
+
+#### Linked Lists
+
+- [Remove Duplicates](Linked_List/Linked_List)
+
