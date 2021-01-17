@@ -9,6 +9,14 @@ namespace Linked_List
         {
             var sll = new SinglyLinkedList<int>();
             var sll2 = new SinglyLinkedList<int>();
+            var sll3 = new SinglyLinkedList<char>();
+            sll3.AddFirst('r', 'a', 'c', 'e', 'c', 'a', 'r');
+
+            sll.AddFirst(5, 4, 3, 5, 5);
+
+            Console.WriteLine(sll.IsPalindrome());
+            Console.WriteLine(sll3.IsPalindrome());
+            Console.WriteLine(sll3.ConvertToString());
         }
     }
 
@@ -40,9 +48,30 @@ namespace Linked_List
             Count = 0;
         }
 
-        public static void SayHi()
+        public bool IsPalindrome()
         {
-            Console.WriteLine("Hello");
+            if (Head == null) return true;
+
+            string str = ConvertToString();
+
+            for (int i = 0; i < str.Length / 2; i++)
+                if (str[i] != str[str.Length - (i + 1)]) return false;
+
+            return true;
+        }
+
+        public string ConvertToString()
+        {
+            string str = "";
+
+            var current = Head;
+            while (current != null)
+            {
+                str = str.Insert(str.Length, current.Val.ToString());
+                current = current.Next;
+            }
+
+            return str;
         }
 
         public static SinglyLinkedList<int> SumList(SinglyLinkedList<int> list1, SinglyLinkedList<int> list2)
