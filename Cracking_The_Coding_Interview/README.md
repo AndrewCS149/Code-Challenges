@@ -21,3 +21,7 @@
 - [Partition](Linked_List/Linked_List)
 - [List Sum](Linked_List/Linked_List)
 - [Palindrome](Linked_List/Linked_List)
+
+#### Stacks & Queues
+
+- [Push Pop and Min](StacksAndQueues/StacksAndQueues)
