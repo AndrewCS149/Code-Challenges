@@ -16,4 +16,6 @@
 #### Linked Lists
 
 - [Remove Duplicates](Linked_List/Linked_List)
-
+- [Kth From Last](Linked_List/Linked_List)
+- [Delete Middle Node](Linked_List/Linked_List)
+- [Partition](Linked_List/Linked_List)
