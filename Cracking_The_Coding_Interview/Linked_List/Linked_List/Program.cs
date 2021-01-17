@@ -12,10 +12,12 @@ namespace Linked_List
             sll.AddLast(4, 5, 4, 3, 3, 3, 1, 2, 4);
             sll.Print();
 
-            sll.DeleteMiddleNode(5);
-            Console.WriteLine();
-            sll.Print();
-            Console.WriteLine(sll.Count);
+            var lists = sll.Partition(3);
+
+            lists[0].Print();
+            Console.WriteLine(lists[0].Count);
+            lists[1].Print();
+            Console.WriteLine(lists[1].Count);
         }
     }
 
@@ -80,6 +82,34 @@ namespace Linked_List
 
             // will not be hit
             return default(T);
+        }
+
+        /// <summary>
+        /// Partitions the list into two linked list where all elements less than 'val' will be in the first list
+        /// and all element greater than or equal to 'val' will be in the second list
+        /// </summary>
+        /// <param name="val"></param>
+        /// <returns></returns>
+        public SinglyLinkedList<int>[] Partition(int val)
+        {
+            if (Head == null) return default;
+
+            var listOne = new SinglyLinkedList<int>();
+            var listTwo = new SinglyLinkedList<int>();
+
+            var current = Head;
+            while (current != null)
+            {
+                if (!int.TryParse(current.Val.ToString(), out int num))
+                    throw new InvalidCastException("Cannot convert type to int.");
+
+                if (num < val) listOne.AddLast(num);
+                else listTwo.AddLast(num);
+
+                current = current.Next;
+            }
+
+            return new SinglyLinkedList<int>[] { listOne, listTwo };
         }
 
         public void DeleteMiddleNode(T val)
