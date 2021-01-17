@@ -3,21 +3,12 @@ using System.Collections.Generic;
 
 namespace Linked_List
 {
-    internal class Program
+    public class Program
     {
-        private static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            SinglyLinkedList<int> sll = new SinglyLinkedList<int>();
-
-            sll.AddLast(4, 5, 4, 3, 3, 3, 1, 2, 4);
-            sll.Print();
-
-            var lists = sll.Partition(3);
-
-            lists[0].Print();
-            Console.WriteLine(lists[0].Count);
-            lists[1].Print();
-            Console.WriteLine(lists[1].Count);
+            var sll = new SinglyLinkedList<int>();
+            var sll2 = new SinglyLinkedList<int>();
         }
     }
 
@@ -47,6 +38,94 @@ namespace Linked_List
         public SinglyLinkedList()
         {
             Count = 0;
+        }
+
+        public static void SayHi()
+        {
+            Console.WriteLine("Hello");
+        }
+
+        public static SinglyLinkedList<int> SumList(SinglyLinkedList<int> list1, SinglyLinkedList<int> list2)
+        {
+            string sum = "";
+            var list1Current = list1.Head;
+            var list2Current = list2.Head;
+
+            int tens = 0;
+            while (list1Current != null)
+            {
+                int tmpSum = list1Current.Val + list2Current.Val + tens;
+
+                if (list1Current.Next == null)
+                {
+                    sum += tmpSum;
+                    break;
+                }
+                else if (tmpSum / 10 > 0)
+                {
+                    tens = tmpSum / 10;
+                    tmpSum %= 10;
+                }
+                else
+                    tens = 0;
+
+                sum += tmpSum;
+
+                list1Current = list1Current.Next;
+                list2Current = list2Current.Next;
+            }
+
+            int total = int.Parse(sum);
+            var sumList = new SinglyLinkedList<int>();
+            while (total > 0)
+            {
+                sumList.AddFirst(total % 10);
+                total /= 10;
+            }
+
+            return sumList;
+
+            //int sum1 = 0, sum2 = 0;
+
+            //var list1Current = list1.Head;
+            //var list2Current = list2.Head;
+
+            //while (list1Current != null)
+            //{
+            //    sum1 = sum1 * 10 + list1Current.Val;
+            //    list1Current = list1Current.Next;
+            //}
+
+            //while (list2Current != null)
+            //{
+            //    sum2 = sum2 * 10 + list2Current.Val;
+            //    list2Current = list2Current.Next;
+            //}
+
+            //int sum1Rev = 0; int sum2Rev = 0;
+
+            //while (sum1 > 0)
+            //{
+            //    sum1Rev = sum1Rev * 10 + (sum1 % 10);
+            //    sum1 /= 10;
+            //}
+
+            //while (sum2 > 0)
+            //{
+            //    sum2Rev = sum2Rev * 10 + (sum2 % 10);
+            //    sum2 /= 10;
+            //}
+
+            //int total = sum1Rev + sum2Rev;
+            //var sumList = new SinglyLinkedList<int>();
+
+            //while (total > 0)
+            //{
+            //    sumList.AddLast(total % 10);
+            //    total /= 10;
+            //}
+
+            //return sumList;
         }
 
         public void Print()
