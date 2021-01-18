@@ -6,14 +6,11 @@ namespace StacksAndQueues
     {
         private static void Main(string[] args)
         {
-            Stack<int> myStack = new Stack<int>();
-            myStack.Add(1, 50, 4, 40, 30, 20, 10, 5, 400, 2, 1, 111);
-            myStack.Print();
-            var newStack = myStack.SortStack();
-            Console.WriteLine();
-            newStack.Print();
-            Console.WriteLine();
-            myStack.Print();
+            Queue<int> myQueue = new Queue<int>();
+            myQueue.EnQueue(1, 2, 3, 4, 5);
+            myQueue.Print();
+            Console.WriteLine(myQueue.Peek());
+            //Console.WriteLine(myQueue.Front.Val);
         }
     }
 
@@ -44,9 +41,9 @@ namespace StacksAndQueues
             Count = 0;
         }
 
-        public void Add(params T[] vals)
+        public void Push(params T[] vals)
         {
-            Array.ForEach(vals, x => Add(x));
+            Array.ForEach(vals, x => Push(x));
         }
 
         public Stack<int> SortStack()
@@ -64,19 +61,19 @@ namespace StacksAndQueues
         private Stack<int> SortStack(int val, Stack<int> newStack)
         {
             if (newStack.Top == null || val <= newStack.Top.Val)
-                newStack.Add(val);
+                newStack.Push(val);
             else
             {
                 var tmpStack = new Stack<int>();
                 while (val > newStack.Peek())
                 {
-                    tmpStack.Add(newStack.Pop());
+                    tmpStack.Push(newStack.Pop());
                     if (newStack.Top == null) break;
                 }
 
-                newStack.Add(val);
+                newStack.Push(val);
                 while (tmpStack.Count > 0)
-                    newStack.Add(tmpStack.Pop());
+                    newStack.Push(tmpStack.Pop());
             }
 
             if (Count > 0)
@@ -85,7 +82,7 @@ namespace StacksAndQueues
                 return newStack;
         }
 
-        public void Add(T val)
+        public void Push(T val)
         {
             Count++;
             var newNode = new Node<T>(val);
@@ -149,18 +146,68 @@ namespace StacksAndQueues
 
     public class Queue<T>
     {
-        public Node<T> Head { get; set; }
         public int Count { get; set; }
 
-        public Queue(T val)
-        {
-            Head.Val = val;
-            Count = 1;
-        }
+        private Stack<T> stack;
 
         public Queue()
         {
+            stack = new Stack<T>();
             Count = 0;
+        }
+
+        public void EnQueue(params T[] vals)
+        {
+            Array.ForEach(vals, x => EnQueue(x));
+        }
+
+        public void EnQueue(T val)
+        {
+            stack.Push(val);
+            Count = stack.Count;
+        }
+
+        public T Peek()
+        {
+            if (Count == 0)
+                throw new Exception("Queue is empty");
+
+            var current = stack.Top;
+            while (current.Next != null)
+                current = current.Next;
+
+            return current.Val;
+        }
+
+        public void DeQueue(int count)
+        {
+            for (int i = 0; i < count; i++)
+                DeQueue();
+        }
+
+        public T DeQueue()
+        {
+            var tmpStack = new Stack<T>();
+            while (stack.Count > 1)
+                tmpStack.Push(stack.Pop());
+
+            var result = stack.Pop();
+            while (tmpStack.Count > 0)
+                stack.Push(tmpStack.Pop());
+
+            Count = stack.Count;
+            return result;
+        }
+
+        public void Print()
+        {
+            var current = stack.Top;
+            while (current != null)
+            {
+                Console.Write(current.Val + " -> ");
+                current = current.Next;
+            }
+            Console.WriteLine();
         }
     }
 }
