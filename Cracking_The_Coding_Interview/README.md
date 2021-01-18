@@ -27,3 +27,4 @@
 - [Push Pop and Min](StacksAndQueues/StacksAndQueues)
 - [Sort Stack](StacksAndQueues/StacksAndQueues)
 - [Implement Queue with Stacks](StacksAndQueues/StacksAndQueues)
+- [Animal Shelter](AnimalShelter/AnimalShelter)
