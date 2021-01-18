@@ -7,9 +7,13 @@ namespace StacksAndQueues
         private static void Main(string[] args)
         {
             Stack<int> myStack = new Stack<int>();
-            myStack.Add(1, 50, 4, 40, 30, 20, 10);
+            myStack.Add(1, 50, 4, 40, 30, 20, 10, 5, 400, 2, 1, 111);
             myStack.Print();
-            Console.WriteLine(myStack.Peek());
+            var newStack = myStack.SortStack();
+            Console.WriteLine();
+            newStack.Print();
+            Console.WriteLine();
+            myStack.Print();
         }
     }
 
@@ -43,6 +47,42 @@ namespace StacksAndQueues
         public void Add(params T[] vals)
         {
             Array.ForEach(vals, x => Add(x));
+        }
+
+        public Stack<int> SortStack()
+        {
+            if (Count <= 1)
+                throw new Exception("stack cannot be sorted any further");
+
+            var newStack = new Stack<int>();
+            var tmpTop = Top;
+            var sortedStack = SortStack(int.Parse(Pop().ToString()), newStack);
+            Top = tmpTop;
+            return sortedStack;
+        }
+
+        private Stack<int> SortStack(int val, Stack<int> newStack)
+        {
+            if (newStack.Top == null || val <= newStack.Top.Val)
+                newStack.Add(val);
+            else
+            {
+                var tmpStack = new Stack<int>();
+                while (val > newStack.Peek())
+                {
+                    tmpStack.Add(newStack.Pop());
+                    if (newStack.Top == null) break;
+                }
+
+                newStack.Add(val);
+                while (tmpStack.Count > 0)
+                    newStack.Add(tmpStack.Pop());
+            }
+
+            if (Count > 0)
+                return SortStack(int.Parse(Pop().ToString()), newStack);
+            else
+                return newStack;
         }
 
         public void Add(T val)

@@ -25,3 +25,4 @@
 #### Stacks & Queues
 
 - [Push Pop and Min](StacksAndQueues/StacksAndQueues)
+- [Sort Stack](StacksAndQueues/StacksAndQueues)
