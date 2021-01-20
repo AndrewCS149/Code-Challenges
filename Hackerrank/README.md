@@ -82,6 +82,7 @@
 - [Flipping Bits](Easy/FlippingBits/FlippingBits)
 - [Permuting Two Array](Easy/PermutingTwoArays/PermutingTwoArrays)
 - [Find the Medium](Easy/FindTheMedium/FindTheMedium)
+- [Sherlock and Squares](Easy/SherlockAndSquares/SherlockAndSquares)
 
 #### Medium
 
