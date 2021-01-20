@@ -25,23 +25,15 @@ namespace Anagram
         private static int Anagram(string s)
         {
             if (s.Length % 2 == 1) return -1;
-            int count = 0;
+
             string str1 = s.Substring(0, s.Length / 2);
-            string str2 = s.Substring(s.Length / 2);
+            string str2 = s.Substring(str1.Length + 1);
 
-            string alpha = "abcdefghijklmnopqrstuvwxyz";
-            int[] arr = new int[26];
-
-            foreach (char ch in str1)
-                arr[alpha.IndexOf(ch)]++;
-
+            List<char> list = new List<char>(str1);
             foreach (char ch in str2)
-            {
-                int idx = alpha.IndexOf(ch);
-                if (arr[idx] > 0) arr[idx]--;
-                else count++;
-            }
-            return count;
+                if (list.Contains(ch)) list.Remove(ch);
+
+            return list.Count;
         }
     }
 }
