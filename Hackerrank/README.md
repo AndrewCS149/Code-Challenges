@@ -84,6 +84,7 @@
 - [Find the Medium](Easy/FindTheMedium/FindTheMedium)
 - [Sherlock and Squares](Easy/SherlockAndSquares/SherlockAndSquares)
 - [Two Strings](Easy/TwoStrings/TwoStrings)
+- [Anagram](Easy/Anagram/Anagram)
 
 #### Medium
 
