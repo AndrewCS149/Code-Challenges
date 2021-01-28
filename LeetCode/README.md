@@ -8,7 +8,7 @@
 - [Goal Parser](Easy/Goal_Parser/Goal_Parser)
 - [Shuffle String](Easy/Shuffle_String/Shuffle_String)
 - [Decompress Run-Length Encoded List](Easy/Decompress_RLE_List/Decompress_RLE_List)
-
+- [XOR Operation in an Array](Easy/XOR_Operation_Array/XOR_Operation_Array)
 #### Medium
 
 
