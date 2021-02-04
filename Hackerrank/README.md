@@ -85,6 +85,7 @@
 - [Sherlock and Squares](Easy/SherlockAndSquares/SherlockAndSquares)
 - [Two Strings](Easy/TwoStrings/TwoStrings)
 - [Anagram](Easy/Anagram/Anagram)
+- [Happy Ladybugs](Easy/Happy_Ladybugs/Happy_Ladybugs)
 
 #### Medium
 
