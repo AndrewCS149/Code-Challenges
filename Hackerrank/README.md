@@ -94,6 +94,8 @@
 - [The Time in Words](Medium/TimeInWords/TimeInWords)
 - [Extra Long Factorials](Medium/ExtraLongFactorials/ExtraLongFactorials)
 - [Greedy Florist](Medium/GreedyFlorist/GreedyFlorist)
+- [Bigger Is Greater](Medium/Bigger_Is_Greater/Bigger_Is_Greateri)
+- [Organizing a container of balls 2](Medium/OrganizingContainerOfBalls2/OrganizingContainerOfBalls2)
 
 #### Hard
 
