@@ -88,6 +88,7 @@
 - [Happy Ladybugs](Easy/Happy_Ladybugs/Happy_Ladybugs)
 - [Missing Numbers](Easy/Missing_Numbers/Missing_Numbers)
 - [2D Arrays](Easy/2D_Arrays/2D_Arrays)
+- [Arrays Left Rotation](Easy/ArraysLeftRotation/ArraysLeftRotation)
 
 #### Medium
 
