@@ -86,6 +86,7 @@
 - [Two Strings](Easy/TwoStrings/TwoStrings)
 - [Anagram](Easy/Anagram/Anagram)
 - [Happy Ladybugs](Easy/Happy_Ladybugs/Happy_Ladybugs)
+- [Missing Numbers](Easy/Missing_Numbers/Missing_Numbers)
 
 #### Medium
 

@@ -27,25 +27,22 @@ namespace _3D_Surface_Area
 
         private static int surfaceArea(int[][] A)
         {
-            int total = (A.Length * A.Length) * 2;
-            for (int i = 1; i < A.Length; i++)
+            int total = 0;
+            for (int i = 0; i < A.Length; i++)
             {
+                int leftRight = A[i][0];
+                int frontBack = A[0][i];
                 for (int k = 1; k < A[i].Length; k++)
                 {
-                    total += Math.Max(0, A[i][k] - A[i - 1][k]);
-                    total += Math.Max(0, A[i][k] - A[i + 1][k]);
-                    total += Math.Max(0, A[i][k] - A[i][k - 1]);
-                    total += Math.Max(0, A[i][k] - A[i][k + 1]);
+                    if (A[k][i] > A[k - 1][i])
+                        frontBack += Math.Abs(A[k][i] - A[k - 1][i]);
 
-                    //if (A[k][i] > A[k - 1][i])
-                    //    frontBack += Math.Abs(A[k][i] - A[k - 1][i]);
-
-                    //if (A[i][k] > A[i][k - 1])
-                    //    leftRight += Math.Abs(A[i][k] - A[i][k - 1]);
+                    if (A[i][k] > A[i][k - 1])
+                        leftRight += Math.Abs(A[i][k] - A[i][k - 1]);
                 }
-                //total += leftRight + frontBack;
+                total += leftRight + frontBack;
             }
-            return total;
+            return total * 2 + (A.Length * A[0].Length * 2);
         }
     }
 }
