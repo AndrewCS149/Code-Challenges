@@ -96,6 +96,7 @@
 - [Greedy Florist](Medium/GreedyFlorist/GreedyFlorist)
 - [Bigger Is Greater](Medium/Bigger_Is_Greater/Bigger_Is_Greateri)
 - [Organizing a container of balls 2](Medium/OrganizingContainerOfBalls2/OrganizingContainerOfBalls2)
+- [3D Surface Area](Medium/3D_Surface_Area/3D_Surface_Area)
 
 #### Hard
 
