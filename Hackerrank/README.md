@@ -101,6 +101,7 @@
 - [Organizing a container of balls 2](Medium/OrganizingContainerOfBalls2/OrganizingContainerOfBalls2)
 - [3D Surface Area](Medium/3D_Surface_Area/3D_Surface_Area)
 - [New Year Chaos](Medium/NewYearChaos/NewYearChaos) - Partial
+- [Minimum Swaps 2](Medium/MinSwaps2/MinSwaps2)
 
 #### Hard
 
