@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace MakingAnagrams2
 {
@@ -8,19 +9,15 @@ namespace MakingAnagrams2
         // Complete the makeAnagram function below.
         private static int makeAnagram(string a, string b)
         {
-            int count = 0;
             int[] idxs = new int[26];
-            char[] abc = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
 
-            foreach (var ch in a)
-                idxs[Array.IndexOf(abc, ch)]++;
+            for (int i = 0; i < a.Length; i++)
+                idxs[a[i] - 'a']++;
 
-            foreach (var ch in b)
-                idxs[Array.IndexOf(abc, ch)]--;
+            for (int i = 0; i < b.Length; i++)
+                idxs[b[i] - 'a']--;
 
-            Array.ForEach(idxs, x => count += Math.Abs(x));
-
-            return count;
+            return idxs.Select(i => Math.Abs(i)).Sum();
         }
 
         private static void Main(string[] args)

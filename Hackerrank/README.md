@@ -103,6 +103,8 @@
 - [3D Surface Area](Medium/3D_Surface_Area/3D_Surface_Area)
 - [New Year Chaos](Medium/NewYearChaos/NewYearChaos) - Partial
 - [Minimum Swaps 2](Medium/MinSwaps2/MinSwaps2)
+- [Sherlock and the Valid String](Medium/SherlockString/SherlockString)
+- [Special String Again](Medium/SpecialStringAgain/SpecialStringAgain)
 
 #### Hard
 
