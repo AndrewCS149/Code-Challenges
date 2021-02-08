@@ -90,6 +90,7 @@
 - [2D Arrays](Easy/2D_Arrays/2D_Arrays)
 - [Arrays Left Rotation](Easy/ArraysLeftRotation/ArraysLeftRotation)
 - [Making Anagrams 2](Easy/MakingAnagrams2/MakingAnagrams2)
+- [Insert node at position](Easy/InsertNode/InsertNode)
 
 #### Medium
 
