@@ -93,6 +93,7 @@
 - [Insert node at position](Easy/InsertNode/InsertNode)
 - [Insert Node into DLL](Easy/InsertNodeDLL/InsertNodeDLL)
 - [Reverse DLL](Easy/ReverseDLL/ReverseDLL)
+- [Find merge points of two linked lists](Easy/MergePoints/MergePoints)
 
 #### Medium
 
