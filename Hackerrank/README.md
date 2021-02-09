@@ -94,6 +94,7 @@
 - [Insert Node into DLL](Easy/InsertNodeDLL/InsertNodeDLL)
 - [Reverse DLL](Easy/ReverseDLL/ReverseDLL)
 - [Find merge points of two linked lists](Easy/MergePoints/MergePoints)
+- [Ransom Note](Easy/RansomNote/RansomNote)
 
 #### Medium
 
