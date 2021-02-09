@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace InsertNodeDLL
+namespace ReverseDLL
 {
     internal class Program
     {
-        // link - https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists
+        // link - https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=linked-lists
         private static void Main(string[] args)
         {
             int t = Convert.ToInt32(Console.ReadLine());
@@ -21,53 +21,44 @@ namespace InsertNodeDLL
                     llist.InsertNode(llistItem);
                 }
 
-                int data = Convert.ToInt32(Console.ReadLine());
-
-                DoublyLinkedListNode llist1 = sortedInsert(llist.head, data);
+                DoublyLinkedListNode llist1 = reverse(llist.head);
 
                 PrintDoublyLinkedList(llist1, " ");
             }
         }
 
-        private static DoublyLinkedListNode sortedInsert(DoublyLinkedListNode head, int data)
+        private static DoublyLinkedListNode reverse(DoublyLinkedListNode head)
         {
-            var node = new DoublyLinkedListNode(data);
-            if (head == null)
-                return node;
+            if (head == null || head.next == null)
+                return head;
 
-            if (data < head.data)
+            // ONLINE SOLUTION WITHOUT USING EXTRA SPACE
+            var cur = head;
+            var prev = head.prev;
+            while (cur != null)
             {
-                node.next = head;
-                head.prev = node;
-                return node;
+                var next = cur.next;
+                cur.next = prev;
+                prev = cur;
+                cur = next;
             }
+            return prev;
 
-            // RECUSIVE
-            var n = sortedInsert(head.next, data);
-            head.next = n;
-            n.prev = head;
-            return head;
+            // MY SOLUTION - NEW LINKED LIST
+            //var newDLL = new DoublyLinkedList();
 
-            // MY ITERATIVE APPROACH
+            //// get last node
             //var cur = head;
-            //while (cur.next.data < data)
-            //{
+            //while (cur.next != null)
             //    cur = cur.next;
-            //    if (cur.next == null) break;
+
+            //while (cur != null)
+            //{
+            //    newDLL.InsertNode(cur.data);
+            //    cur = cur.prev;
             //}
 
-            //if (cur.next == null)
-            //{
-            //    node.prev = cur;
-            //    cur.next = node;
-            //}
-            //else
-            //{
-            //    node.next = cur.next;
-            //    node.prev = cur;
-            //    cur.next = node;
-            //}
-            //return head;
+            //return newDLL.head;
         }
 
         private static void PrintDoublyLinkedList(DoublyLinkedListNode node, string sep)

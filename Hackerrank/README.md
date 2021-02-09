@@ -92,6 +92,7 @@
 - [Making Anagrams 2](Easy/MakingAnagrams2/MakingAnagrams2)
 - [Insert node at position](Easy/InsertNode/InsertNode)
 - [Insert Node into DLL](Easy/InsertNodeDLL/InsertNodeDLL)
+- [Reverse DLL](Easy/ReverseDLL/ReverseDLL)
 
 #### Medium
 
