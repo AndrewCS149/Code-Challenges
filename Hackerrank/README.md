@@ -110,6 +110,7 @@
 - [Minimum Swaps 2](Medium/MinSwaps2/MinSwaps2)
 - [Sherlock and the Valid String](Medium/SherlockString/SherlockString)
 - [Special String Again](Medium/SpecialStringAgain/SpecialStringAgain)
+- [Sherlock and Anagrams](Medium/SherlockAndAnagrams/SherlockAndAnagrams)
 
 #### Hard
 
