@@ -95,6 +95,7 @@
 - [Reverse DLL](Easy/ReverseDLL/ReverseDLL)
 - [Find merge points of two linked lists](Easy/MergePoints/MergePoints)
 - [Ransom Note](Easy/RansomNote/RansomNote)
+- [Sorting: Bubble Sort](Easy/Bubble_Sort/Bubble_Sort)
 
 #### Medium
 
