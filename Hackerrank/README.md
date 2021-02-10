@@ -112,6 +112,7 @@
 - [Sherlock and the Valid String](Medium/SherlockString/SherlockString)
 - [Special String Again](Medium/SpecialStringAgain/SpecialStringAgain)
 - [Sherlock and Anagrams](Medium/SherlockAndAnagrams/SherlockAndAnagrams)
+- [Balanced Brackets](Medium/Balanced_Brackets/Balanced_Brackets)
 
 #### Hard
 
