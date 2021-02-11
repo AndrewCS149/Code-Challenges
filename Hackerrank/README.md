@@ -114,6 +114,7 @@
 - [Sherlock and Anagrams](Medium/SherlockAndAnagrams/SherlockAndAnagrams)
 - [Balanced Brackets](Medium/Balanced_Brackets/Balanced_Brackets)
 - [Queues: Tale of two stacks](Medium/TaleOfTwoStacks/TaleOfTwoStacks)
+- [Hash Tables: Ice Cream Parlor](Medium/IceCreamParlor/IceCreamParlor)
 
 #### Hard
 
