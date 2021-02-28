@@ -96,6 +96,7 @@
 - [Find merge points of two linked lists](Easy/MergePoints/MergePoints)
 - [Ransom Note](Easy/RansomNote/RansomNote)
 - [Sorting: Bubble Sort](Easy/Bubble_Sort/Bubble_Sort)
+- [Compute Fibinocci Numbers](Easy/FibNumbers/FibNumbers)
 
 #### Medium
 
