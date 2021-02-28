@@ -117,6 +117,7 @@
 - [Queues: Tale of two stacks](Medium/TaleOfTwoStacks/TaleOfTwoStacks)
 - [Hash Tables: Ice Cream Parlor](Medium/IceCreamParlor/IceCreamParlor)
 - [Is BST](Medium/IsBST/IsBST)
+- [Davis Staircase](Medium/DavisStaircase/DavisStaircase)
 
 #### Hard
 
