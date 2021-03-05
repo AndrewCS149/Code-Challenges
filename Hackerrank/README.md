@@ -96,6 +96,7 @@
 - [Find merge points of two linked lists](Easy/MergePoints/MergePoints)
 - [Ransom Note](Easy/RansomNote/RansomNote)
 - [Sorting: Bubble Sort](Easy/Bubble_Sort/Bubble_Sort)
+- [Tree: Height of a binary tree](Easy/HeightOfTree/HeightOfTree)
 
 #### Medium
 
@@ -115,6 +116,7 @@
 - [Balanced Brackets](Medium/Balanced_Brackets/Balanced_Brackets)
 - [Queues: Tale of two stacks](Medium/TaleOfTwoStacks/TaleOfTwoStacks)
 - [Hash Tables: Ice Cream Parlor](Medium/IceCreamParlor/IceCreamParlor)
+- [Swap Nodes [Algo]](Medium/Swap_Nodes/Swap_Nodes)
 
 #### Hard
 
