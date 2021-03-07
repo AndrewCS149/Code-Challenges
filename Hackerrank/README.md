@@ -96,11 +96,8 @@
 - [Find merge points of two linked lists](Easy/MergePoints/MergePoints)
 - [Ransom Note](Easy/RansomNote/RansomNote)
 - [Sorting: Bubble Sort](Easy/Bubble_Sort/Bubble_Sort)
-<<<<<<< HEAD
 - [Tree: Height of a binary tree](Easy/HeightOfTree/HeightOfTree)
-=======
 - [Compute Fibinocci Numbers](Easy/FibNumbers/FibNumbers)
->>>>>>> a0fb463b2afbff6768897b2a344dbc9edad28bd6
 
 #### Medium
 
@@ -120,12 +117,9 @@
 - [Balanced Brackets](Medium/Balanced_Brackets/Balanced_Brackets)
 - [Queues: Tale of two stacks](Medium/TaleOfTwoStacks/TaleOfTwoStacks)
 - [Hash Tables: Ice Cream Parlor](Medium/IceCreamParlor/IceCreamParlor)
-<<<<<<< HEAD
 - [Swap Nodes [Algo]](Medium/Swap_Nodes/Swap_Nodes)
-=======
 - [Is BST](Medium/IsBST/IsBST)
 - [Davis Staircase](Medium/DavisStaircase/DavisStaircase)
->>>>>>> a0fb463b2afbff6768897b2a344dbc9edad28bd6
 
 #### Hard
 
