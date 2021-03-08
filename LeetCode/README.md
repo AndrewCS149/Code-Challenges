@@ -12,6 +12,7 @@
 - [Matching Rule](Easy/MatchingRule/MatchingRule)
 - [Split balanced string](Easy/SplitBalancedString/SplitBalancedString)
 - [Defanging an IP address](Easy/DefangIP/Defang/IP)
+- [Check Strings](Easy/CheckStrings/CheckStrings)
 
 #### Medium
 
