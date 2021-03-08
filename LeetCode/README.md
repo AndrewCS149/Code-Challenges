@@ -14,6 +14,8 @@
 - [Defanging an IP address](Easy/DefangIP/Defang/IP)
 - [Check Strings](Easy/CheckStrings/CheckStrings)
 - [Max Nesting Depth](Easy/MaxNestingDepth/MaxNestingDepth)
+- [Allowed chars](Easy/AllowedChars/AllowedChars)
+
 
 #### Medium
 
