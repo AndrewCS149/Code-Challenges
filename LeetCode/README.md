@@ -13,6 +13,7 @@
 - [Split balanced string](Easy/SplitBalancedString/SplitBalancedString)
 - [Defanging an IP address](Easy/DefangIP/Defang/IP)
 - [Check Strings](Easy/CheckStrings/CheckStrings)
+- [Max Nesting Depth](Easy/MaxNestingDepth/MaxNestingDepth)
 
 #### Medium
 
