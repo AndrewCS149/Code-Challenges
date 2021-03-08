@@ -11,6 +11,7 @@
 - [XOR Operation in an Array](Easy/XOR_Operation_Array/XOR_Operation_Array)
 - [Matching Rule](Easy/MatchingRule/MatchingRule)
 - [Split balanced string](Easy/SplitBalancedString/SplitBalancedString)
+- [Defanging an IP address](Easy/DefangIP/Defang/IP)
 
 #### Medium
 
