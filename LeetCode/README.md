@@ -16,6 +16,7 @@
 - [Max Nesting Depth](Easy/MaxNestingDepth/MaxNestingDepth)
 - [Allowed chars](Easy/AllowedChars/AllowedChars)
 - [Sum of All Odd Length Subarrays](Easy/SumOfOddSubarrays/SumOfOddSubarrays)
+- [Count matches](Easy/CountMatches/CountMatches)
 
 #### Medium
 
