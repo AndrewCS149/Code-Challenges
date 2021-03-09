@@ -6,8 +6,7 @@ namespace StringConvert2
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine(StrToNum("55"));
-            Console.WriteLine(StrToNum("10052"));
+            Console.WriteLine(ConvertToString(1200));
         }
 
         public static char Units(int num)
