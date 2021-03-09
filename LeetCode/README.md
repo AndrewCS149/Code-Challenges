@@ -17,6 +17,7 @@
 - [Allowed chars](Easy/AllowedChars/AllowedChars)
 - [Sum of All Odd Length Subarrays](Easy/SumOfOddSubarrays/SumOfOddSubarrays)
 - [Count matches](Easy/CountMatches/CountMatches)
+- [Find Highest Altitude](Easy/HighestAltitude/HighestAltitude)
 
 #### Medium
 
