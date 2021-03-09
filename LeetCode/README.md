@@ -15,7 +15,7 @@
 - [Check Strings](Easy/CheckStrings/CheckStrings)
 - [Max Nesting Depth](Easy/MaxNestingDepth/MaxNestingDepth)
 - [Allowed chars](Easy/AllowedChars/AllowedChars)
-
+- [Sum of All Odd Length Subarrays](Easy/SumOfOddSubarrays/SumOfOddSubarrays)
 
 #### Medium
 
