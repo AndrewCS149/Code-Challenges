@@ -19,6 +19,7 @@
 - [Count matches](Easy/CountMatches/CountMatches)
 - [Find Highest Altitude](Easy/HighestAltitude/HighestAltitude)
 - [Count Good Triplets](Easy/CountTriplets/CountTriplets)
+- [Minimum Time Visiting Points](Easy/MinimumTime/MinimumTime)
 
 #### Medium
 
