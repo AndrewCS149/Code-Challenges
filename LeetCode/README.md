@@ -20,6 +20,7 @@
 - [Find Highest Altitude](Easy/HighestAltitude/HighestAltitude)
 - [Count Good Triplets](Easy/CountTriplets/CountTriplets)
 - [Minimum Time Visiting Points](Easy/MinimumTime/MinimumTime)
+- [Remove Outermost parentheses](Easy/RemoveParens/RemoveParens)
 
 #### Medium
 
