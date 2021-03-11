@@ -25,6 +25,7 @@
 #### Medium
 
 - [Merge in Between Linked Lists](Medium/MergeLists/MergeLists)
+- [Count Sorted Vowel Strings](Medium/VowelStrings/VowelStrings)
 
 
 #### Hard
