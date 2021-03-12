@@ -21,6 +21,8 @@
 - [Count Good Triplets](Easy/CountTriplets/CountTriplets)
 - [Minimum Time Visiting Points](Easy/MinimumTime/MinimumTime)
 - [Remove Outermost parentheses](Easy/RemoveParens/RemoveParens)
+- [Cells with Odd Values](Easy/OddCells/OddCells)
+- [Shuffle the Array](Easy/ShuffleArray/ShuffleArray)
 
 #### Medium
 
