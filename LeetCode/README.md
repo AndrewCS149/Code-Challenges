@@ -25,6 +25,8 @@
 - [Shuffle the Array](Easy/ShuffleArray/ShuffleArray)
 - [Binary to Integer](Easy/BinaryToInt/BinaryToInt)
 - [Destination City](Easy/DestinationCity/DestinationCity)
+- [Matrix Diagonal Sum](Easy/DiagonalSum/DiagonalSum)
+
 
 #### Medium
 
