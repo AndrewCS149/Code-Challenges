@@ -23,6 +23,7 @@
 - [Remove Outermost parentheses](Easy/RemoveParens/RemoveParens)
 - [Cells with Odd Values](Easy/OddCells/OddCells)
 - [Shuffle the Array](Easy/ShuffleArray/ShuffleArray)
+- [Binary to Integer](Easy/BinaryToInt/BinaryToInt)
 
 #### Medium
 
