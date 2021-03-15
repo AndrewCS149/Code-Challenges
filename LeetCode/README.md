@@ -26,6 +26,7 @@
 - [Binary to Integer](Easy/BinaryToInt/BinaryToInt)
 - [Destination City](Easy/DestinationCity/DestinationCity)
 - [Matrix Diagonal Sum](Easy/DiagonalSum/DiagonalSum)
+- [Roman to Integer](Easy/RomanToInt/RomanToInt)
 
 
 #### Medium
