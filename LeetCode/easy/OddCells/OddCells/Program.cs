@@ -17,30 +17,30 @@ namespace OddCells
 
             Console.WriteLine(OddCells(n, m, indices));
         }
-
+        // [0, 1] [1, 1]
         public static int OddCells(int n, int m, int[][] indices)
         {
             int odds = 0;
             int[,] matrix = new int[n, m];
+
             for (int i = 0; i < indices.Length; i++)
             {
-                int row = indices[i][0];
-                int col = indices[i][1];
+                for (int j = 0; j < m; j++)
+                {
+                    matrix[indices[i][0], j] += 1;
+                    odds += matrix[indices[i][0], j] % 2 == 1 ? 1 : -1;
 
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                    matrix[row, j]++;
+                }
 
-                for (int k = 0; k < matrix.Rank; k++)
-                    matrix[k, col]++;
-            }
-
-            for (int i = 0; i < matrix.Rank; i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                    if (matrix[i, j] % 2 == 1) odds++;
+                for (int k = 0; k < n; k++)
+                {
+                    matrix[k, indices[i][1]] += 1;
+                    odds += matrix[k, indices[i][1]] % 2 == 1 ? 1 : -1;
+                }
             }
 
             return odds;
         }
     }
 }
+
