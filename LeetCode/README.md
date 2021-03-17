@@ -32,6 +32,7 @@
 - [Increasing / Decreasing String](Easy/IncreasingDecreasingString/IncreasingDecreasingString)
 - [Decrypt String](Easy/DecryptString/DecryptString)
 - [Max Product Of Two Elements](Easy/MaxProduct/MaxProduct)
+- [String of Odd Counts](Easy/OddString/OddString)
 
 #### Medium
 
