@@ -33,6 +33,7 @@
 - [Decrypt String](Easy/DecryptString/DecryptString)
 - [Max Product Of Two Elements](Easy/MaxProduct/MaxProduct)
 - [String of Odd Counts](Easy/OddString/OddString)
+- [Alike Halves](Easy/AlikeHalves/AlikeHavles)
 
 #### Medium
 
