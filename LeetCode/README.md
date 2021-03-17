@@ -35,6 +35,7 @@
 - [String of Odd Counts](Easy/OddString/OddString)
 - [Alike Halves](Easy/AlikeHalves/AlikeHavles)
 - [Alternate Strings](Easy/AlternateStrings/AlternateStrings)
+- [Unique Integers Sum to Zero](Easy/IntsZeroSum/IntsZeroSum)
 
 #### Medium
 
