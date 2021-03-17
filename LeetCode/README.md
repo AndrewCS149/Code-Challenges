@@ -30,6 +30,7 @@
 - [Number of Rectangles That Can Form Largest Square](Easy/NumOfRectangles/NumOfRectangles)
 - [Unique Morse Code Words](Easy/MorseCode/MorseCode)
 - [Increasing / Decreasing String](Easy/IncreasingDecreasingString/IncreasingDecreasingString)
+- [Decrypt String](Easy/DecryptString/DecryptString)
 
 #### Medium
 
