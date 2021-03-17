@@ -31,6 +31,7 @@
 - [Unique Morse Code Words](Easy/MorseCode/MorseCode)
 - [Increasing / Decreasing String](Easy/IncreasingDecreasingString/IncreasingDecreasingString)
 - [Decrypt String](Easy/DecryptString/DecryptString)
+- [Max Product Of Two Elements](Easy/MaxProduct/MaxProduct)
 
 #### Medium
 
