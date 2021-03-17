@@ -29,11 +29,12 @@
 - [Roman to Integer](Easy/RomanToInt/RomanToInt)
 - [Number of Rectangles That Can Form Largest Square](Easy/NumOfRectangles/NumOfRectangles)
 - [Unique Morse Code Words](Easy/MorseCode/MorseCode)
+- [Increasing / Decreasing String](Easy/IncreasingDecreasingString/IncreasingDecreasingString)
 
 #### Medium
 
 - [Merge in Between Linked Lists](Medium/MergeLists/MergeLists)
 - [Count Sorted Vowel Strings](Medium/VowelStrings/VowelStrings)
-
+- [Count Number of Teams](Medium/NumberOfTeams/NumberOfTeams)
 
 #### Hard
