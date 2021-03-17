@@ -36,6 +36,7 @@
 - [Alike Halves](Easy/AlikeHalves/AlikeHavles)
 - [Alternate Strings](Easy/AlternateStrings/AlternateStrings)
 - [Unique Integers Sum to Zero](Easy/IntsZeroSum/IntsZeroSum)
+- [Self Dividing Numbers](Easy/SelfDividingNums/SelfDividingNums)
 
 #### Medium
 
