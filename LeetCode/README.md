@@ -28,6 +28,7 @@
 - [Matrix Diagonal Sum](Easy/DiagonalSum/DiagonalSum)
 - [Roman to Integer](Easy/RomanToInt/RomanToInt)
 - [Number of Rectangles That Can Form Largest Square](Easy/NumOfRectangles/NumOfRectangles)
+- [Unique Morse Code Words](Easy/MorseCode/MorseCode)
 
 #### Medium
 
