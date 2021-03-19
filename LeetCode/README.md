@@ -38,6 +38,7 @@
 - [Unique Integers Sum to Zero](Easy/IntsZeroSum/IntsZeroSum)
 - [Self Dividing Numbers](Easy/SelfDividingNums/SelfDividingNums)
 - [Sum of Unique Elements](Easy/SumOfUniqueElements/SumOfUniqueElements)
+- [Final Prices](Easy/FinalPrices/FinalPrices)
 
 #### Medium
 
