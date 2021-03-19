@@ -37,6 +37,7 @@
 - [Alternate Strings](Easy/AlternateStrings/AlternateStrings)
 - [Unique Integers Sum to Zero](Easy/IntsZeroSum/IntsZeroSum)
 - [Self Dividing Numbers](Easy/SelfDividingNums/SelfDividingNums)
+- [Sum of Unique Elements](Easy/SumOfUniqueElements/SumOfUniqueElements)
 
 #### Medium
 
