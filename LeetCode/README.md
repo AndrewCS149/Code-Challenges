@@ -39,6 +39,7 @@
 - [Self Dividing Numbers](Easy/SelfDividingNums/SelfDividingNums)
 - [Sum of Unique Elements](Easy/SumOfUniqueElements/SumOfUniqueElements)
 - [Final Prices](Easy/FinalPrices/FinalPrices)
+- [Sort Array by Parity](Easy/SortByParity/SortByParity)
 
 #### Medium
 
