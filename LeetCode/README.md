@@ -42,6 +42,8 @@
 - [Sort Array by Parity](Easy/SortByParity/SortByParity)
 - [Replace Elements with Greatest Element on Right Side](Easy/ReplaceElements/ReplaceElements)
 - [N Repeated Elements](Easy/RepeatedElements/RepeatedElements)
+- [Max Number of Balls](Easy/MaxNumberOfBalls/MaxNumberOfballs)
+
 
 #### Medium
 
