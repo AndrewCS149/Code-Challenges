@@ -44,6 +44,7 @@
 - [N Repeated Elements](Easy/RepeatedElements/RepeatedElements)
 - [Max Number of Balls](Easy/MaxNumberOfBalls/MaxNumberOfballs)
 - [Robot Returns to Origin](Easy/RobotOrigin/RobotOrigin)
+- [DI String Match](Easy/DIStringMatch/DIStringMatch)
 
 #### Medium
 
