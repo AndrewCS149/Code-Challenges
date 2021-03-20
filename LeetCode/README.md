@@ -47,6 +47,7 @@
 - [DI String Match](Easy/DIStringMatch/DIStringMatch)
 - [Tree Post Order Traversal](Easy/TreePostOrderTraversal/TreePostOrderTraversal)
 - [Tree Pre Order Traversal](Easy/TreePreOrderTraversal/TreePreOrderTraversal)
+- [Array Partition](Easy/ArrayPartition/ArrayPartition)
 
 #### Medium
 
