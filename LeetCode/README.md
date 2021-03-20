@@ -43,7 +43,7 @@
 - [Replace Elements with Greatest Element on Right Side](Easy/ReplaceElements/ReplaceElements)
 - [N Repeated Elements](Easy/RepeatedElements/RepeatedElements)
 - [Max Number of Balls](Easy/MaxNumberOfBalls/MaxNumberOfballs)
-
+- [Robot Returns to Origin](Easy/RobotOrigin/RobotOrigin)
 
 #### Medium
 
