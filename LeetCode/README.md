@@ -54,5 +54,6 @@
 - [Merge in Between Linked Lists](Medium/MergeLists/MergeLists)
 - [Count Sorted Vowel Strings](Medium/VowelStrings/VowelStrings)
 - [Count Number of Teams](Medium/NumberOfTeams/NumberOfTeams)
+- [Find Dupes in Array](Medium/DupesInArray/DupesInArray)
 
 #### Hard
