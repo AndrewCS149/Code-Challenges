@@ -41,6 +41,7 @@
 - [Final Prices](Easy/FinalPrices/FinalPrices)
 - [Sort Array by Parity](Easy/SortByParity/SortByParity)
 - [Replace Elements with Greatest Element on Right Side](Easy/ReplaceElements/ReplaceElements)
+- [N Repeated Elements](Easy/RepeatedElements/RepeatedElements)
 
 #### Medium
 
