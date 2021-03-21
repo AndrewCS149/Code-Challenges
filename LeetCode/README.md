@@ -55,5 +55,6 @@
 - [Count Sorted Vowel Strings](Medium/VowelStrings/VowelStrings)
 - [Count Number of Teams](Medium/NumberOfTeams/NumberOfTeams)
 - [Find Dupes in Array](Medium/DupesInArray/DupesInArray)
+- [Swapping Linked List Nodes](Medium/SwappingLinkedListNodes/SwappingLinkedListNodes)
 
 #### Hard
