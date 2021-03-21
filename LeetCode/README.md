@@ -56,5 +56,6 @@
 - [Count Number of Teams](Medium/NumberOfTeams/NumberOfTeams)
 - [Find Dupes in Array](Medium/DupesInArray/DupesInArray)
 - [Swapping Linked List Nodes](Medium/SwappingLinkedListNodes/SwappingLinkedListNodes)
+- [Reduce Array Size to Half](Medium/ReduceArraySize/ReduceArraySize)
 
 #### Hard
