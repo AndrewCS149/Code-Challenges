@@ -57,5 +57,6 @@
 - [Find Dupes in Array](Medium/DupesInArray/DupesInArray)
 - [Swapping Linked List Nodes](Medium/SwappingLinkedListNodes/SwappingLinkedListNodes)
 - [Reduce Array Size to Half](Medium/ReduceArraySize/ReduceArraySize)
+- [String Break String](Medium/StringBreakString/StringBreakString)
 
 #### Hard
