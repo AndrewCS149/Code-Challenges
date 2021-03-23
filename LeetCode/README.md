@@ -48,6 +48,7 @@
 - [Tree Post Order Traversal](Easy/TreePostOrderTraversal/TreePostOrderTraversal)
 - [Tree Pre Order Traversal](Easy/TreePreOrderTraversal/TreePreOrderTraversal)
 - [Array Partition](Easy/ArrayPartition/ArrayPartition)
+- [Needle in HayStack](Easy/NeedleInHayStack/NeedleInHayStack)
 
 #### Medium
 
