@@ -49,6 +49,9 @@
 - [Tree Pre Order Traversal](Easy/TreePreOrderTraversal/TreePreOrderTraversal)
 - [Array Partition](Easy/ArrayPartition/ArrayPartition)
 - [Needle in HayStack](Easy/NeedleInHayStack/NeedleInHayStack)
+- [Longest Common Prefix](Easy/LongestCommonPrefix/LongestCommonPrefix)
+- [Reverse Words in a String](Easy/ReverseWordInString/ReverseWordInString)
+
 
 #### Medium
 
