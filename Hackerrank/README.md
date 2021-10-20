@@ -2,6 +2,7 @@
 
 #### Easy
 
+- [Closest Numbers](Easy/ClosestNumbers/ClosestNumbers)
 - [Compare the Triplets](Easy/CompareTheTriplets/CompareTheTriplets)
 - [A Very Big Sum](Easy/VeryBigSum/VeryBigSum)
 - [Simple Array Sum](Easy/SimpleArraySum/SimpleArraySum)
