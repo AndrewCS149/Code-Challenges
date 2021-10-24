@@ -27,20 +27,20 @@ E.g. it should also handle an input like:
 */
 
 let testObj = {
-    a: 'a',
-    number: 11,
-    hungry: true,
-    grammyWins: 1
+  a: 'a',
+  number: 11,
+  hungry: true,
+  grammyWins: 1
 }
 
 console.log(getAllKeys(testObj));
 
 function getAllKeys(obj) {
-    let newArr = [];
+  let newArr = [];
 
-    for (value in obj) {
-        newArr.push(value);
-    }
+  for (key in obj) {
+    newArr.push(key);
+  }
 
-    return newArr;
+  return newArr;
 }
