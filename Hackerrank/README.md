@@ -2,6 +2,8 @@
 
 #### Easy
 
+- [Circular Array Rotation](Easy/CircularArrayRotation)
+- [Separate The Numbers](Easy/SeparateTheNumbers) - unfinished
 - [Closest Numbers](Easy/ClosestNumbers/ClosestNumbers)
 - [Compare the Triplets](Easy/CompareTheTriplets/CompareTheTriplets)
 - [A Very Big Sum](Easy/VeryBigSum/VeryBigSum)
