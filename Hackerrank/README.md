@@ -2,6 +2,8 @@
 
 #### Easy
 
+- [ACM ICPC Team](Easy/ACMTeam/ACMTeam) 
+- [Strong Password](Easy/StrongPassword/StrongPassword) - unfinished
 - [Circular Array Rotation](Easy/CircularArrayRotation)
 - [Separate The Numbers](Easy/SeparateTheNumbers) - unfinished
 - [Closest Numbers](Easy/ClosestNumbers/ClosestNumbers)
