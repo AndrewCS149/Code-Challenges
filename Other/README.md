@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [Is Prime Number](IsPrimeNumber/IsPrimeNumber)
 - [Hungry Hippos](HungryHippos/HungryHippos)
 - [Repeated Characters](RepeatedCharacters/RepeatedCharacters)
 - [Farthest Number Away from Correct Number](FartherNumber/FarthestNumber)
