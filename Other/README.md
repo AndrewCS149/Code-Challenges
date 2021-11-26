@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [Whats My GPA?](MyGPA/MyGAP)
 - [Is Prime Number](IsPrimeNumber/IsPrimeNumber)
 - [Hungry Hippos](HungryHippos/HungryHippos)
 - [Repeated Characters](RepeatedCharacters/RepeatedCharacters)
