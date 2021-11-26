@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [Farthest Number Away from Correct Number](FartherNumber/FarthestNumber)
 - [IsPalindrome](IsPalindrome/IsPalindrome)
 - [Convert String to Number](StringConvert/StringConvert)
 - [FirstNonRepeatedChar](FirstNonRepeatedChar/FirstNonRepeatedChar)
