@@ -7,10 +7,10 @@ Write a function that takes in a list of incorrect numbers and a correct number.
 
 static int FarthestNumberAway(int[] incorrectNums, int correctNum)
 {
-    int farthestNum = incorrectNums[0];
+    int farthestNum = 0;
     foreach (int num in incorrectNums)
     {
-        if(Math.Abs(num - correctNum) > farthestNum)
+        if (Math.Abs(num - correctNum) > Math.Abs(farthestNum))
         {
             farthestNum = num;
         }
@@ -21,7 +21,7 @@ static int FarthestNumberAway(int[] incorrectNums, int correctNum)
 }
 
 //Console.WriteLine(FarthestNumberAway(new int[] { 3, 6, -10 }, 0));
-Console.WriteLine(FarthestNumberAway(new int[] { 3, 6, -10 }, -9));
+Console.WriteLine(FarthestNumberAway(new int[] { 3, 6, 0, 70, -10, 100, -30, 40, -70 }, 0));
 
 
 
