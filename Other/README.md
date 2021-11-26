@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [Hungry Hippos](HungryHippos/HungryHippos)
 - [Repeated Characters](RepeatedCharacters/RepeatedCharacters)
 - [Farthest Number Away from Correct Number](FartherNumber/FarthestNumber)
 - [IsPalindrome](IsPalindrome/IsPalindrome)
