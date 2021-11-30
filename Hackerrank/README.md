@@ -2,6 +2,7 @@
 
 #### Easy
 
+- [Priyanka and Toys](Easy/PriyankaAndToys/PriyankaAndToys)
 - [Minimum Absolute Difference in an Array](Easy/MinimumAbs/MinimumAbs)
 - [ACM ICPC Team](Easy/ACMTeam/ACMTeam) 
 - [Strong Password](Easy/StrongPassword/StrongPassword) - unfinished
