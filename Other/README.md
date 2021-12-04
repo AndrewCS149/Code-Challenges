@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [Longest Word in Array](LongestWord/LongestWord)
 - [Whats My GPA?](MyGPA/MyGAP)
 - [Is Prime Number](IsPrimeNumber/IsPrimeNumber)
 - [Hungry Hippos](HungryHippos/HungryHippos)
