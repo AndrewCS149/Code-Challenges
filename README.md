@@ -1,4 +1,4 @@
-# Code Challenges
+## Code Challenges
 A mixture of different hackerrank written in C#.
 
 ### Table of Contents
