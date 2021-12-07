@@ -58,6 +58,7 @@
 
 #### Medium
 
+- [Sub Rectangle Queries](Medium/SubRectangles/SubRectangles)
 - [Partitioning Into Minimum Number of Deci-Binary Numbers](Medium/DeciBinaryNumbers/DeciBinaryNumbers)
 - [Merge in Between Linked Lists](Medium/MergeLists/MergeLists)
 - [Count Sorted Vowel Strings](Medium/VowelStrings/VowelStrings)
