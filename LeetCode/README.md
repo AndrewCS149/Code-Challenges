@@ -2,6 +2,7 @@
 
 #### Easy
 
+- [Build Array from Permutation)[Easy/BuildArray/BuildArray)
 - [Concatenation of Array](Easy/ConcatenationOfArray)
 - [Richest Customer Wealth](Easy/RichestCustomerWealth/RichestCustomerWealth)
 - [Number of Good Pairs](Easy/NumberOfGoodPairs/NumberOfGoodPairs)
