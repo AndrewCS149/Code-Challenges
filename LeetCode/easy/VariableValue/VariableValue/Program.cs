@@ -6,7 +6,7 @@ static int Solution(string[] operations)
 
     Array.ForEach(operations, val =>
     {
-        result += val.Contains('+') ? 1 : -1;
+        result += val[1] == '+' ? 1 : -1;
     });
 
     return result;
