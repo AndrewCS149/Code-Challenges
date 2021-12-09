@@ -1,6 +1,7 @@
 ## Table of Contents
 
 ### Csharp
+- [Fibonacci Checker](FibonacciChecker/FibonacciChecker)
 - [Alphabet Soup](AlphabetSoup/AlphabetSoup)
 - [Clock Angle](ClockAngle/ClockAngle)
 - [Longest Word in Array](LongestWord/LongestWord)
