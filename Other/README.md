@@ -1,7 +1,7 @@
 ## Table of Contents
 
 ### Csharp
-
+- [Alphabet Soup](AlphabetSoup/AlphabetSoup)
 - [Clock Angle](ClockAngle/ClockAngle)
 - [Longest Word in Array](LongestWord/LongestWord)
 - [Whats My GPA?](MyGPA/MyGAP)
