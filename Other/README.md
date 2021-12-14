@@ -1,8 +1,13 @@
 ## Table of Contents
 
 ### Csharp
+<<<<<<< HEAD
 
 - [Counting Minutes](CountingMinutes/CountingMinutes)
+=======
+- [Fibonacci Checker](FibonacciChecker/FibonacciChecker)
+- [Alphabet Soup](AlphabetSoup/AlphabetSoup)
+>>>>>>> c9503923e1cf0e6c08d183644c369bd13a27c053
 - [Clock Angle](ClockAngle/ClockAngle)
 - [Longest Word in Array](LongestWord/LongestWord)
 - [Whats My GPA?](MyGPA/MyGAP)
