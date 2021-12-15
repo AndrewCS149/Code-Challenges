@@ -13,6 +13,8 @@ Console.WriteLine(Solution("12:30pm-12:00am"));
 Console.WriteLine(Solution("1:23am-1:08am"));
 Console.WriteLine(Solution("11:00am-01:00pm"));
 Console.WriteLine(Solution("5:00am-03:30am"));
+Console.WriteLine(Solution("3:30pm-3:30pm"));
+
 
 static int Solution(string time)
 {
@@ -47,7 +49,7 @@ static int GetMinutes(string time)
 
     // get hours and convert to military time
     int hours = int.Parse(splitTime[0]);
-    hours = AmPm == "am" ? hours : hours += 12;
+    if (AmPm == "am") hours += 12;
 
     int totalMinutes = hours * 60 + minutes;
 

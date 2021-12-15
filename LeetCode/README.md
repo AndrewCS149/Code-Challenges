@@ -58,6 +58,7 @@
 
 #### Medium
 
+- [Add Two Numbers](Medium/AddTwoNumbers/AddTwoNumbers)
 - [Sub Rectangle Queries](Medium/SubRectangles/SubRectangles)
 - [Partitioning Into Minimum Number of Deci-Binary Numbers](Medium/DeciBinaryNumbers/DeciBinaryNumbers)
 - [Merge in Between Linked Lists](Medium/MergeLists/MergeLists)
