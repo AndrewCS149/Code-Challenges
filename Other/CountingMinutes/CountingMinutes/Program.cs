@@ -9,13 +9,47 @@
     
 
  */
+Console.WriteLine(Solution("12:30pm-12:00am"));
+Console.WriteLine(Solution("1:23am-1:08am"));
+Console.WriteLine(Solution("11:00am-01:00pm"));
+Console.WriteLine(Solution("5:00am-03:30am"));
 
 static int Solution(string time)
 {
+    int totalMinutes = 1440;
+
+    // split times into individual components 
     string[] bothTimes = time.Split("-");
-    string first = bothTimes[0];
-    string seconds = bothTimes[1];
 
+    // get total minutes of both times
+    int time1 = GetMinutes(bothTimes[0]);
+    int time2 = GetMinutes(bothTimes[1]);
 
-    return -1;
+    if (time1 > time2)
+    {
+        int diff = time1 - time2;
+        return totalMinutes - diff;
+    }
+    else
+        return time2 - time1;
+}
+
+static int GetMinutes(string time)
+{
+    // split hrs and minutes
+    string[] splitTime = time.Split(":");
+
+    // get minutes
+    int minutes = int.Parse(splitTime[1].Substring(0, 2));
+
+    // determine if its am or pm
+    string AmPm = splitTime[1][2] == 'a' ? "am" : "pm";
+
+    // get hours and convert to military time
+    int hours = int.Parse(splitTime[0]);
+    hours = AmPm == "am" ? hours : hours += 12;
+
+    int totalMinutes = hours * 60 + minutes;
+
+    return totalMinutes;
 }
