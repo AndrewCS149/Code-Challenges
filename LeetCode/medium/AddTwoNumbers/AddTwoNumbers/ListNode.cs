@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Numerics;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,8 +19,8 @@ namespace AddTwoNumbers
 
         public static ListNode AddNumbers(ListNode l1, ListNode l2)
         {
-            long sumL1 = CombineList(l1);
-            long sumL2 = CombineList(l2);
+            BigInteger sumL1 = CombineList(l1);
+            BigInteger sumL2 = CombineList(l2);
             string sum = (sumL1 + sumL2).ToString();
 
             ListNode newNode = new ListNode();
@@ -48,7 +49,7 @@ namespace AddTwoNumbers
             Console.WriteLine();
         }
 
-        private static long CombineList(ListNode node)
+        private static BigInteger CombineList(ListNode node)
         {
             string sum = "";
             ListNode current = node;
@@ -62,7 +63,7 @@ namespace AddTwoNumbers
             Array.Reverse(arr);
             string sumStr = new string(arr);
 
-            return long.Parse(sumStr);
+            return BigInteger.Parse(sumStr);
         }
     }
 }
