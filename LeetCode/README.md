@@ -2,6 +2,7 @@
 
 #### Easy
 
+- [Merge Two Lists](Easy/MergeTwoLists/MergeTwoLists)
 - [Valid Parentheses](Easy/ValidParentheses/ValidParentheses)
 - [Palindrome Number](Easy/PalindromeNumber/PalindromeNumber)
 - [Final Value of Variable after Performing Operations](Easy/VariableValue/VariableValue)
