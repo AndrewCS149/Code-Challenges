@@ -63,6 +63,7 @@
 
 #### Medium
 
+- [Min Number of Operations to Move All Balls to Each Box](Medium/MinOperations/MinOperations)
 - [Add Two Numbers](Medium/AddTwoNumbers/AddTwoNumbers)
 - [Sub Rectangle Queries](Medium/SubRectangles/SubRectangles)
 - [Partitioning Into Minimum Number of Deci-Binary Numbers](Medium/DeciBinaryNumbers/DeciBinaryNumbers)
