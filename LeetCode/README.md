@@ -2,6 +2,8 @@
 
 #### Easy
 
+- [Max Number of Word Found in Sentences](Easy/MaxWords/MaxWords)
+- [Remove Duplicates from Sorted Array](Easy/RemoveDupesFromArray/RemoveDupesFromArray)
 - [Merge Two Lists](Easy/MergeTwoLists/MergeTwoLists)
 - [Valid Parentheses](Easy/ValidParentheses/ValidParentheses)
 - [Palindrome Number](Easy/PalindromeNumber/PalindromeNumber)
