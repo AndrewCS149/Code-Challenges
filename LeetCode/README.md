@@ -63,6 +63,7 @@
 
 #### Medium
 
+- [Sum of Deepest Leaves](Medium/DeepestLeavesSum/DeepestLeavesSum)
 - [Min Number of Operations to Move All Balls to Each Box](Medium/MinOperations/MinOperations)
 - [Add Two Numbers](Medium/AddTwoNumbers/AddTwoNumbers)
 - [Sub Rectangle Queries](Medium/SubRectangles/SubRectangles)
