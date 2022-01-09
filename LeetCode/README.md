@@ -63,6 +63,7 @@
 
 #### Medium
 
+- [Max City Skyline](Medium/MaxCitySkyline/MaxCitySkyline)
 - [Sum of Deepest Leaves](Medium/DeepestLeavesSum/DeepestLeavesSum)
 - [Min Number of Operations to Move All Balls to Each Box](Medium/MinOperations/MinOperations)
 - [Add Two Numbers](Medium/AddTwoNumbers/AddTwoNumbers)
