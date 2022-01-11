@@ -63,6 +63,7 @@
 
 #### Medium
 
+- [Binary Search Tree To Greater Sum Tree](Medium/BSTtoSumTree/BSTtoSumTree)
 - [Max Twin Sum of a Linked List](Medium/MaxTwinSum/MaxTwinSum)
 - [Sum of Nodes with Even-Valued Grandparent](Medium/SumOfEvenValuedGrandparents/SumOfEvenValuedGrandparents)
 - [Group Peope Given the Group Size They Belong to](Medium/GroupPeople/GroupPeople)
