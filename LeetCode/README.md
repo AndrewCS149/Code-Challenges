@@ -63,6 +63,7 @@
 
 #### Medium
 
+- [Max Twin Sum of a Linked List](Medium/MaxTwinSum/MaxTwinSum)
 - [Sum of Nodes with Even-Valued Grandparent](Medium/SumOfEvenValuedGrandparents/SumOfEvenValuedGrandparents)
 - [Group Peope Given the Group Size They Belong to](Medium/GroupPeople/GroupPeople)
 - [Max City Skyline](Medium/MaxCitySkyline/MaxCitySkyline)
