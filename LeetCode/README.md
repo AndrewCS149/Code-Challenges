@@ -63,6 +63,7 @@
 
 #### Medium
 
+- [Sum of Nodes with Even-Valued Grandparent](Medium/SumOfEvenValuedGrandparents/SumOfEvenValuedGrandparents)
 - [Group Peope Given the Group Size They Belong to](Medium/GroupPeople/GroupPeople)
 - [Max City Skyline](Medium/MaxCitySkyline/MaxCitySkyline)
 - [Sum of Deepest Leaves](Medium/DeepestLeavesSum/DeepestLeavesSum)
