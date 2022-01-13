@@ -2,6 +2,7 @@
 
 #### Easy
 
+- [Check if String is Pangram](Easy/IsPangram/IsPangram)
 - [Find First Palindrome in Array](Easy/FirstPalindrome/FirstPalindrome)
 - [Sorting the Sentence](Easy/SortingTheSentence/SortingTheSentence)
 - [Max Number of Word Found in Sentences](Easy/MaxWords/MaxWords)
