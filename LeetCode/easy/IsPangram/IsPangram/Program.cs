@@ -4,15 +4,13 @@ Console.WriteLine(CheckIfPangram("thequickbrownfoxjumpedoverthelazydog"));
 
 static bool CheckIfPangram(string sentence)
 {
-    var hashset = new HashSet<char>();
+    var set = new HashSet<char>();
 
     foreach (char c in sentence)
-        hashset.Add(c);
+        set.Add(c);
 
 
-    var test = hashset.ToList();
-    test.Sort();
-    return sentence.Length == 26;
+    return set.Count == 26;
 }
 
 
