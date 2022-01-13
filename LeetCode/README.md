@@ -68,6 +68,7 @@
 
 #### Medium
 
+- [Watering Plants](Medium/WateringPlants/WateringPlants)
 - [Binary Search Tree To Greater Sum Tree](Medium/BSTtoSumTree/BSTtoSumTree)
 - [Max Twin Sum of a Linked List](Medium/MaxTwinSum/MaxTwinSum)
 - [Sum of Nodes with Even-Valued Grandparent](Medium/SumOfEvenValuedGrandparents/SumOfEvenValuedGrandparents)
