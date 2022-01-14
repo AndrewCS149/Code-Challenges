@@ -2,6 +2,7 @@
 
 #### Easy
 
+- [Min Operations to Make the Array Increasing](Easy/MinOperationsIncreasingArray/MinOperationsIncreasingArray)
 - [Find Greater Common Divisor of Array](Easy/GreatestCommonDivisor/GreatestCommonDivisor)
 - [Number of Strings that Appear as Substrings in Word](Easy/NumberOfStrings/NumberOfStrings)
 - [Check if String is Pangram](Easy/IsPangram/IsPangram)
