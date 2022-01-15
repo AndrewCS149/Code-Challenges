@@ -2,6 +2,7 @@
 
 #### Easy
 
+- [Reverse Prefix of Word](Easy/ReversePrefixOfWord/ReversePrefixofWord)
 - [Rings and Rods](Easy/RingsAndRods/RingsAndRods)
 - [Min Operations to Make the Array Increasing](Easy/MinOperationsIncreasingArray/MinOperationsIncreasingArray)
 - [Find Greater Common Divisor of Array](Easy/GreatestCommonDivisor/GreatestCommonDivisor)
