@@ -2,7 +2,6 @@
 
 #### Easy
 
-- []()
 - [Jim and the Orders](Easy/JimOrders/JimOrders)
 - [Priyanka and Toys](Easy/PriyankaAndToys/PriyankaAndToys)
 - [Minimum Absolute Difference in an Array](Easy/MinimumAbs/MinimumAbs)
@@ -110,7 +109,7 @@
 
 #### Medium
 
-- [Count Triplets](Medium/CountTriplets/CountTriplets)
+- [Count Triplets](Medium/CountTriplets/CountTriplets) - unfinished
 - [Climbing the Leaderboard](Medium/ClimbingTheLeaderBoard/ClimbingTheLeaderBoard) - unfinished
 - [Organizing Containers of Balls](Medium/OrganizingContainerOfBalls/OrganizingContainerOfBalls)
 - [The Time in Words](Medium/TimeInWords/TimeInWords)
