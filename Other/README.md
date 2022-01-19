@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [Number of Islands](NumberOfIslands/NumberOfIslands)
 - [Third Largest String](ThirdLargestString/ThirdLargestString)
 - [Counting Minutes](CountingMinutes/CountingMinutes)
 - [Fibonacci Checker](FibonacciChecker/FibonacciChecker)
