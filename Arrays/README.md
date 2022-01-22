@@ -3,3 +3,4 @@
 [Reverse the Array](ReverseTheArray/ReverseTheArray)
 [Sort The Array](SortTheArray/SortTheArray)
 [Kth Smallest Element](KthSmallestElement/KthSmallestElement)
+[Find The Frequency](FindTheFrequency/FindTheFrequency)
