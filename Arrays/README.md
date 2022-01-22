@@ -1,3 +1,4 @@
 [PeakElement](PeakElement/PeakElement)
 [Find Min and Max Elements in an array](FindMinAndMax/FindMinAndMax)
 [Reverse the Array](ReverseTheArray/ReverseTheArray)
+[Sort The Array](SortTheArray/SortTheArray)
