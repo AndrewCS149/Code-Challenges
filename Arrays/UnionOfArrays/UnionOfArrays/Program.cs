@@ -13,12 +13,16 @@ namespace UnionOfArrays
 
         private static int DoUnion(int[] a, int[] b)
         {
-            var set = new HashSet<int>();
 
-            Array.ForEach(a, num => set.Add(num));
-            Array.ForEach(b, num => set.Add(num));
+            return a.Union(b).Count();
+            //return a.Concat(b).ToHashSet().Count;
 
-            return set.Count;
+            //var set = new HashSet<int>();
+
+            //Array.ForEach(a, num => set.Add(num));
+            //Array.ForEach(b, num => set.Add(num));
+
+            //return set.Count;
         }
     }
 }
