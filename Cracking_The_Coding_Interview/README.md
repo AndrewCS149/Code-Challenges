@@ -15,6 +15,7 @@
 
 #### Linked Lists
 
+- [Intersection](Intersection/Intersection)
 - [Remove Duplicates](Linked_List/Linked_List)
 - [Kth From Last](Linked_List/Linked_List)
 - [Delete Middle Node](Linked_List/Linked_List)

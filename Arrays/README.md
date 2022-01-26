@@ -9,3 +9,4 @@
 [Move All Negative Elements to End](MoveNegElements/MoveNegElements)
 [Union of Two Arrays](UnionOfArrays/UnionOfArrays)
 [Missing Number in Array](MissingNumber/MissingNumber)
+[Count Pairs with Given Sum](CountPairs/CountPairs)
