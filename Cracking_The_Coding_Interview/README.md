@@ -15,6 +15,7 @@
 
 #### Linked Lists
 
+- [Loop Detection](LoopDetection/LoopDetection)
 - [Intersection](Intersection/Intersection)
 - [Remove Duplicates](Linked_List/Linked_List)
 - [Kth From Last](Linked_List/Linked_List)
