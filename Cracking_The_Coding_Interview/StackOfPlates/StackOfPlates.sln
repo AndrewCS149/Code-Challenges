@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOfPlates", "StackOfPlates\StackOfPlates.csproj", "{B02CA394-1E0D-4A33-B21C-266E3FA34FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02CA394-1E0D-4A33-B21C-266E3FA34FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02CA394-1E0D-4A33-B21C-266E3FA34FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02CA394-1E0D-4A33-B21C-266E3FA34FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02CA394-1E0D-4A33-B21C-266E3FA34FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
