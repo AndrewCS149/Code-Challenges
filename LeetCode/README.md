@@ -72,6 +72,7 @@
 
 #### Medium
 
+- [Longest Substring without Repeating Characters](Medium/LongestSubstring/LongestSubstring)
 - [Queries on Number of Points Inside a Circle](Medium/NumberOfQueries/NumberOfQueries) - unfinished
 - [Watering Plants](Medium/WateringPlants/WateringPlants)
 - [Binary Search Tree To Greater Sum Tree](Medium/BSTtoSumTree/BSTtoSumTree)
