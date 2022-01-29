@@ -72,6 +72,7 @@
 
 #### Medium
 
+- [Remove Nth Node From End of List](Medium/RemoveNthNode/RemoveNthNode)
 - [Container With Most Water](Medium/ContainerWithMostWater/ContainerWithMostWater)
 - [Longest Palindromic Substring](Medium/LongestPalindromicSubstring/LongestPalindromicSubstring)
 - [Longest Substring without Repeating Characters](Medium/LongestSubstring/LongestSubstring)
