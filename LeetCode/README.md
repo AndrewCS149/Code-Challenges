@@ -72,6 +72,7 @@
 
 #### Medium
 
+- [Number of Laser Beams in a Bank](Medium/LaserBeams/LaserBeams)
 - [Minimize Product Sum of Two Arrays](Medium/MinimizeProductSum/MinimizeProductSum)
 - [Print Immutable Linked List in Reverse](Medium/ReversePrintList/ReversePrintList)
 - [Combination Sum III](Medium/CombiantionSumIII/CombinationSumIII) - unfinished
