@@ -72,6 +72,9 @@
 
 #### Medium
 
+- [Print Immutable Linked List in Reverse](Medium/ReversePrintList/ReversePrintList)
+- [Combination Sum III](Medium/CombiantionSumIII/CombinationSumIII) - unfinished
+- [Combination Sum](Medium/CombinationSum/CombinationSum) - unfinished
 - [3Sum Closest](Medium/Sum3Closest/Sum3Closest)
 - [Integer to Roman](Medium/IntToRoman/IntToRoman)
 - [Generate Parentheses](Medium/GenerateParetheses/GenerateParetheses) - unfinished
