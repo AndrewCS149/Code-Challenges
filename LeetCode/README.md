@@ -72,6 +72,7 @@
 
 #### Medium
 
+- [3Sum Closest](Medium/Sum3Closest/Sum3Closest)
 - [Integer to Roman](Medium/IntToRoman/IntToRoman)
 - [Generate Parentheses](Medium/GenerateParetheses/GenerateParetheses) - unfinished
 - [Letter Combinations of a Phone Number](Medium/LetterCombos/LetterCombos)
