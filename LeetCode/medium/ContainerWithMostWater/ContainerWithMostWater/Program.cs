@@ -22,9 +22,6 @@ namespace ContainerWithMostWater
 
         public static int MaxArea(int[] height)
         {
-            if (height.Length < 2)
-                return 0;
-
             int water = 0;
             int p1 = 0;
             int p2 = height.Length - 1;
