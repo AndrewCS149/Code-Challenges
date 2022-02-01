@@ -72,6 +72,8 @@
 
 #### Medium
 
+- [Find Smallest Common Element in All Rows](Medium/SmallestCommonElements/SmallestCommonElement)
+- [Find Valid Matrix Given Row and Column Sums](Medium/FindValidMatrx/FindValidMatrix) - unfinished
 - [Number of Laser Beams in a Bank](Medium/LaserBeams/LaserBeams)
 - [Minimize Product Sum of Two Arrays](Medium/MinimizeProductSum/MinimizeProductSum)
 - [Print Immutable Linked List in Reverse](Medium/ReversePrintList/ReversePrintList)
