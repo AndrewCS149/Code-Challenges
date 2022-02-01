@@ -26,9 +26,9 @@ namespace SmallestCommonElement
             //for (int i = 0; i < mat[0].Length; i++)
             //{
             //    int min = mat[0][i];
-            //    bool isCommon = true;
 
             //    int j = 1;
+            //    bool isCommon = true;
             //    while (isCommon && j < mat.Length)
             //    {
             //        if (!mat[j].Contains(min))
@@ -42,7 +42,10 @@ namespace SmallestCommonElement
 
             //return -1;
 
+            // hold the count of every element in the matrix
             var dict = new Dictionary<int, int>();
+
+            // iterate over every element start from [0][0]
             for (int i = 0; i < mat.Length; i++)
             {
                 for (int j = 0; j < mat[i].Length; j++)
@@ -53,6 +56,8 @@ namespace SmallestCommonElement
                     else
                         dict.Add(cur, 1);
 
+                    // if a common element is found, return it
+                    // the first common element will always be the smallest
                     if (dict[cur] == mat.Length) return cur;
                 }
             }
