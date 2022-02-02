@@ -72,6 +72,7 @@
 
 #### Medium
 
+- [Count Square Submatrices with All Ones](Medium/CountSubmatrices/CountSubmatrices)
 - [Find Smallest Common Element in All Rows](Medium/SmallestCommonElements/SmallestCommonElement)
 - [Find Valid Matrix Given Row and Column Sums](Medium/FindValidMatrx/FindValidMatrix) - unfinished
 - [Number of Laser Beams in a Bank](Medium/LaserBeams/LaserBeams)
