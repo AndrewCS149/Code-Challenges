@@ -7,22 +7,114 @@ namespace IntToRoman
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine(IntToRoman3(3000));
+            Console.WriteLine(IntToRoman3(1994));
+            Console.WriteLine(IntToRoman3(58));
+
+            Console.WriteLine();
+
             Console.WriteLine(IntToRoman2(3000));
             Console.WriteLine(IntToRoman2(1994));
             Console.WriteLine(IntToRoman2(58));
+        }
+
+        public static string IntToRoman3(int num)
+        {
+            string result = "";
+            var map = new Dictionary<string, int>()
+            {
+                {"M", 1000},{"D", 500 },{"C", 100 },
+                {"L", 50 },{"X", 10 },{"V", 5 },
+                {"I", 1 }
+            };
+
+            while (num > 0)
+            {
+                string tmp;
+                bool oddNumeral = false;
+                if (num >= 1000)
+                {
+                    tmp = "M";
+                }
+                else if (num >= 500)
+                {
+                    if (1000 - num <= 100)
+                    {
+                        tmp = "CM";
+                        oddNumeral = true;
+                    }
+                    else
+                        tmp = "D";
+                }
+                else if (num >= 100)
+                {
+                    if (500 - num <= 100)
+                    {
+                        tmp = "CD";
+                        oddNumeral = true;
+                    }
+                    else
+                        tmp = "C";
+                }
+                else if (num >= 50)
+                {
+                    if (100 - num <= 10)
+                    {
+                        tmp = "XC";
+                        oddNumeral = true;
+                    }
+                    else
+                        tmp = "L";
+                }
+                else if (num >= 10)
+                {
+                    if (10 - num <= 10)
+                    {
+                        tmp = "XL";
+                        oddNumeral = true;
+                    }
+                    else
+                        tmp = "X";
+                }
+                else if (num >= 5)
+                {
+                    if (10 - num <= 1)
+                    {
+                        tmp = "IX";
+                        oddNumeral = true;
+                    }
+                    else
+                        tmp = "V";
+                }
+                else if (num == 4)
+                {
+                    tmp = "IV";
+                    oddNumeral = true;
+                }
+                else tmp = "I";
+
+                result += tmp;
+
+                if (oddNumeral)
+                    num -= (map[tmp[1].ToString()] - map[tmp[0].ToString()]);
+                else
+                    num -= map[tmp];
+            }
+
+            return result;
         }
 
         public static string IntToRoman2(int num)
         {
             string result = "";
             var map = new Dictionary<string, int>()
-    {
-        {"M", 1000},  {"CM", 900 }, {"D", 500 },
-        {"CD", 400 }, {"C", 100 },  {"XC", 90 },
-        {"L", 50 },   {"XL", 40 },  {"X", 10 },
-        {"IX", 9 },   {"V", 5 },    {"IV", 4 },
-        {"III", 3 },  {"II", 2 },   {"I", 1 }
-    };
+            {
+                {"M", 1000},  {"CM", 900 }, {"D", 500 },
+                {"CD", 400 }, {"C", 100 },  {"XC", 90 },
+                {"L", 50 },   {"XL", 40 },  {"X", 10 },
+                {"IX", 9 },   {"V", 5 },    {"IV", 4 },
+                {"I", 1 }
+            };
 
             while (num > 0)
             {
