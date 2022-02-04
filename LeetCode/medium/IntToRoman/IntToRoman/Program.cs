@@ -13,7 +13,7 @@ namespace IntToRoman
 
             Console.WriteLine();
 
-            Console.WriteLine(IntToRoman2(3000));
+            Console.WriteLine(IntToRoman2(144));
             Console.WriteLine(IntToRoman2(1994));
             Console.WriteLine(IntToRoman2(58));
         }
