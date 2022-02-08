@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [HowSum[HowSum/HowSum]
 - [CanSum](CanSum/CanSum)
 - [2D Traveler](2dTraveler/2dTraveler)
 - [Fibonacci](Fibonacci/Fibonacci)
