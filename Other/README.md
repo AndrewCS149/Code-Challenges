@@ -1,6 +1,8 @@
 ## Table of Contents
 
 ### Csharp
+
+- [CanSum](CanSum/CanSum)
 - [2D Traveler](2dTraveler/2dTraveler)
 - [Fibonacci](Fibonacci/Fibonacci)
 - [Number of Islands](NumberOfIslands/NumberOfIslands)
@@ -10,7 +12,7 @@
 - [Alphabet Soup](AlphabetSoup/AlphabetSoup)
 - [Clock Angle](ClockAngle/ClockAngle)
 - [Longest Word in Array](LongestWord/LongestWord)
-- [Whats My GPA?](MyGPA/MyGAP)
+- [Whats My GPA?](MyGPA/MyGPA)
 - [Is Prime Number](IsPrimeNumber/IsPrimeNumber)
 - [Hungry Hippos](HungryHippos/HungryHippos)
 - [Repeated Characters](RepeatedCharacters/RepeatedCharacters)
