@@ -6,15 +6,12 @@ Console.WriteLine(Traverse(2, 3));
 Console.WriteLine(Traverse(3, 3));
 Console.WriteLine(Traverse(18, 18));
 
-
-
 static long Traverse(long m, long n, Dictionary<string, long> dict = null)
 {
-    string key = $"{m},{n}";
-
     if (dict == null)
         dict = new Dictionary<string, long>();
 
+    string key = $"{m},{n}";
     if (dict.ContainsKey(key)) return dict[key];
 
     if (m == 1 && n == 1) return 1;
@@ -23,3 +20,4 @@ static long Traverse(long m, long n, Dictionary<string, long> dict = null)
     dict[key] = Traverse(m - 1, n, dict) + Traverse(m, n - 1, dict);
     return dict[key];
 }
+
