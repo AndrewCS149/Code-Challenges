@@ -16,13 +16,15 @@ using System;
           private static void Main(string[] args) 
           {
 
-          	string[] test1 = {"wo", "rd", "w", "ord", "wor"};
+          	string[] test1 = {"wo", "rd", "w", "ord", "wor", "d"};
 			Console.WriteLine(Construct("word", test1));			
+			Console.WriteLine(Construct2("word", test1));			
+						
           }
 
           private static int Construct(string target, string[] wordBank, Dictionary<string, int> memo = null) 
           {
-          	if(memo == null) memo = new Dictionary<string, int>():
+          	if(memo == null) memo = new Dictionary<string, int>();
 
           	if(memo.ContainsKey(target)) return memo[target];
 			if(target == "") return 1;
@@ -42,5 +44,22 @@ using System;
           
           	return count;
           }          
+
+          private static int Construct2(string target, string[] wordBank) 
+          {
+		  	if(target == "") return 1;
+
+			int count = 0;
+		  	foreach(string word in wordBank) 
+		  	{
+		  		if(target.IndexOf(word) == 0) 
+		  		{
+		  			if(Construct2(target.Substring(word.Length), wordBank) == 1) 
+		  				count++;
+		  		}
+		  	}          	
+
+		  	return count;
+          }
       }
   }
