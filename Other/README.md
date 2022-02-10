@@ -2,6 +2,7 @@
 
 ### Csharp
 
+- [CountConstruct](CountConstruct/CountConstruct)
 - [CanConstruct](CanConstruct/CanConstruct)
 - [HowSum](HowSum/HowSum)
 - [CanSum](CanSum/CanSum)
