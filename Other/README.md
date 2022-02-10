@@ -3,6 +3,8 @@
 ### Csharp
 
 - [BestSum](BestSum/BestSum)
+- [CountConstruct](CountConstruct/CountConstruct)
+- [CanConstruct](CanConstruct/CanConstruct)
 - [HowSum](HowSum/HowSum)
 - [CanSum](CanSum/CanSum)
 - [2D Traveler](2dTraveler/2dTraveler)

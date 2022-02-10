@@ -72,6 +72,7 @@
 
 #### Medium
 
+- [WordBreak](Medium/WordBreakProblem/WordBreakProblem)
 - [Permutations](Medium/Permutations/Permutations)
 - [Count Square Submatrices with All Ones](Medium/CountSubmatrices/CountSubmatrices)
 - [Find Smallest Common Element in All Rows](Medium/SmallestCommonElements/SmallestCommonElement)
