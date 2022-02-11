@@ -8,6 +8,7 @@ you may reuse elements of wordBank as many times as needed
 */
 
 using System;
+using System.Diagnostics;
 
   namespace CountConstruct
   {
@@ -15,10 +16,25 @@ using System;
       {
           private static void Main(string[] args) 
           {
+			var watch = new Stopwatch();
+			watch.Start();
 
-          	string[] test1 = {"wo", "rd", "w", "ord", "wor", "d"};
-			Console.WriteLine(Construct("word", test1));			
-			Console.WriteLine(Construct2("word", test1));			
+			
+          	string[] test1 = {"wo", "rd", "w", "ord", "wor"};
+			string[] test2 = {"purp", "p", "ur", "le", "purpl"};
+			string[] test3 = {"e", "ee", "eee", "eeee", "eeeee", "eeeeee"};
+          	
+			Console.WriteLine(Construct("word", test1));	
+			Console.WriteLine(Construct("purple", test2));	
+			Console.WriteLine(Construct("eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeef", test3));	
+									
+			// Console.WriteLine(Construct2("word", test1));
+
+
+
+			// Console.WriteLine(watch.ElapsedMilliseconds);
+					
+			watch.Stop();		
 						
           }
 
@@ -33,13 +49,9 @@ using System;
 			foreach(string word in wordBank) 
 			{
 				if(target.IndexOf(word) == 0) 
-				{
-					if(Construct(target.Substring(word.Length), wordBank, memo) == 1)
-					{
-						memo[target] = 1;
-						count++;
-					}
-				}
+					 count += Construct(target.Substring(word.Length), wordBank, memo);
+					 
+				memo[target] = count;
 			}
           
           	return count;
@@ -53,12 +65,8 @@ using System;
 		  	foreach(string word in wordBank) 
 		  	{
 		  		if(target.IndexOf(word) == 0) 
-		  		{
-		  			if(Construct2(target.Substring(word.Length), wordBank) == 1) 
-		  				count++;
-		  		}
-		  	}          	
-
+		  			count += Construct2(target.Substring(word.Length), wordBank);
+			}
 		  	return count;
           }
       }
