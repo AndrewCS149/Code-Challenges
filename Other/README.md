@@ -2,6 +2,8 @@
 
 ### Csharp
 
+- [OptimalChange](OptimalChange/OptimalChange)
+- [Keypad](Keypad/Keypad) - unfinished
 - [BestSum](BestSum/BestSum)
 - [CountConstruct](CountConstruct/CountConstruct)
 - [CanConstruct](CanConstruct/CanConstruct)
