@@ -2,6 +2,18 @@
 
 ### Csharp
 
+- [PeakElement](PeakElement/PeakElement)
+- [Find Min and Max Elements in an array](FindMinAndMax/FindMinAndMax)
+- [Reverse the Array](ReverseTheArray/ReverseTheArray)
+- [Sort The Array](SortTheArray/SortTheArray)
+- [Kth Smallest Element](KthSmallestElement/KthSmallestElement)
+- [Find The Frequency](FindTheFrequency/FindTheFrequency)
+- [Sort an Array of 0s, 1s and 2s](Sort012/Sort012)
+- [Subarray with Given Sum](SubarrayWithSum/SubarrayWithSum)
+- [Move All Negative Elements to End](MoveNegElements/MoveNegElements)
+- [Union of Two Arrays](UnionOfArrays/UnionOfArrays)
+- [Missing Number in Array](MissingNumber/MissingNumber)
+- [Count Pairs with Given Sum](CountPairs/CountPairs)
 - [OptimalChange](OptimalChange/OptimalChange)
 - [Keypad](Keypad/Keypad) - unfinished
 - [AllConstruct](AllConstruct/AllConstruct)
@@ -31,7 +43,3 @@
 - [Convert String to Number 2](StringConvert3/StringConvert3)
 - [Most Common String](CommonString/CommonString)
 - [Flip Every Character](FlipEveryCharacter)
-
-### JavaScript
-
-- [Object to Array](ObjectToArray)
