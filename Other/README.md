@@ -4,6 +4,7 @@
 
 - [OptimalChange](OptimalChange/OptimalChange)
 - [Keypad](Keypad/Keypad) - unfinished
+- [AllConstruct](AllConstruct/AllConstruct)
 - [BestSum](BestSum/BestSum)
 - [CountConstruct](CountConstruct/CountConstruct)
 - [CanConstruct](CanConstruct/CanConstruct)
