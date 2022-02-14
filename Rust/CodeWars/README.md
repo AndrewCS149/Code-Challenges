@@ -10,3 +10,4 @@
 - [Is He Gonna Survive?](Easy/is_he_gonna_survive)
 - [Quarter of the Year](Easy/quarter_of_the_year)
 - [The Feast of Many Beasts](Easy/feasts_of_beasts)
+- [Will There be Enough Space?](Easy/will_there_be_enough_space)
