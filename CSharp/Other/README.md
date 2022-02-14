@@ -16,7 +16,7 @@
 - [Count Pairs with Given Sum](CountPairs/CountPairs)
 - [OptimalChange](OptimalChange/OptimalChange)
 - [Keypad](Keypad/Keypad) - unfinished
-- [AllConstruct](AllConstruct/AllConstruct)
+- [AllConstruct](AllConstruct/AllConstruct) - unfinished
 - [BestSum](BestSum/BestSum)
 - [CountConstruct](CountConstruct/CountConstruct)
 - [CanConstruct](CanConstruct/CanConstruct)
