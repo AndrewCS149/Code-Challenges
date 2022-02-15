@@ -16,7 +16,7 @@ namespace AllConstruct
         {
 			string[] test1 = {"purp", "p", "ur", "le", "purpl"};
 			var res = AllConstructSolution("purple", test1);
-
+			Console.WriteLine(res.Count);
 			foreach(var list in res) 
 			{
 				foreach(var word in list) 
@@ -26,9 +26,29 @@ namespace AllConstruct
 			}
         }
 
-		private static List<List<string>> AllConstuctSolution(string target, string[] wordBank) 
+		private static List<List<string>> AllConstructSolution(string target, string[] wordBank) 
 		{
-			
+			if(target == "") return new List<List<string>>();
+
+			var result = new List<List<string>>();
+			foreach(string word in wordBank) 
+			{
+				if(target.IndexOf(word) == 0) 
+				{
+					string suffix = target.Substring(word.Length);
+					var suffixWays = AllConstructSolution(suffix, wordBank);
+					var targetWays = new List<List<string>>();
+
+					foreach(var list in suffixWays) 
+					{
+						list.Insert(0, word);
+						targetWays.Add(list);
+						result.Add(list);
+					}
+				}
+			}
+
+			return result;
 		}
     }
 }
