@@ -15,7 +15,7 @@
 - [Missing Number in Array](MissingNumber/MissingNumber)
 - [Count Pairs with Given Sum](CountPairs/CountPairs)
 - [OptimalChange](OptimalChange/OptimalChange)
-- [Keypad](Keypad/Keypad) - unfinished
+- [Keypad](Keypad/Keypad)
 - [AllConstruct](AllConstruct/AllConstruct) - unfinished
 - [BestSum](BestSum/BestSum)
 - [CountConstruct](CountConstruct/CountConstruct)
