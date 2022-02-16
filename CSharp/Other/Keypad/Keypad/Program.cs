@@ -1,37 +1,44 @@
 using System;
 
-  namespace Keypad
-  {
-      public class Program 
-      {
-          private static void Main(string[] args) 
-          {
+namespace Keypad
+{
+    public class Program
+    {
+        private static void Main(string[] args)
+        {
+            int[] nums = { 2, 3 };
+            var res = Combinations(nums);
 
-          }
+            foreach (string word in res)
+                Console.WriteLine(word);
+        }
 
-		  string[] keypad = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        private static List<string> Combinations(int[] numbers)
+        {
+            var result = new List<string>();
+            string[] map = { "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
 
-          private static List<string> Combinations(int[] numbers, List<string> words = null) 
-          {
-			if(words == null)
-				words = new List<string>();
+            Backtrack(result, numbers, "", 0, map);
 
-			if(numbers.Length == 0) return words;
+            return result;
+        }
 
-			foreach(int num in numbers) 
-			{
-				string tmp = keypad[num];
-				string wrd = "";
-				foreach(char ch in tmp) 
-				{
-					
-				}
-			}
-			
-          	return words;
-          }
-      }
-  }
+        private static void Backtrack(List<string> result, int[] digits, string current, int idx, string[] map)
+        {
+            if (idx == digits.Length)
+            {
+                result.Add(current);
+                return;
+            }
+
+            string letters = map[digits[idx]];
+            for (int i = 0; i < letters.Length; i++)
+            {
+                Backtrack(result, digits, current + letters[i], idx + 1, map);
+            }
+        }
+    }
+}
 
 
 /*
