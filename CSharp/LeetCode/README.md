@@ -3,6 +3,7 @@
 #### Easy
 
 - [A Number After a Double Reversal](Easy/NumberAfterDoubleReversal/NumberAfterDoubleReversal)
+- [Binary Tree Paths](Easy/BinaryTreePaths/BinaryTreePaths)
 - [Reverse Prefix of Word](Easy/ReversePrefixOfWord/ReversePrefixofWord)
 - [Rings and Rods](Easy/RingsAndRods/RingsAndRods)
 - [Min Operations to Make the Array Increasing](Easy/MinOperationsIncreasingArray/MinOperationsIncreasingArray)
