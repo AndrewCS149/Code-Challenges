@@ -3,6 +3,7 @@
 #### Easy
 
 - [A Wolf in Sheep's Clothing](Easy/wolf_in_sheeps_clothing)
+- [Can We Divide It?](Easy/can_divide)
 - [Century From Year](Easy/century_from_year)
 - [Calculate Average](Easy/calculate_avg)
 - [Grasshopper](Easy/grasshopper)
