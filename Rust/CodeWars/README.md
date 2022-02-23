@@ -11,6 +11,7 @@
 - [If you can't sleep, just count sheep!](Easy/cant_sleep_count_sheep)
 - [Is He Gonna Survive?](Easy/is_he_gonna_survive)
 - [Invert Values](Easy/invert_values)
+- [Lost Wihtout a Map](Easy/lost_without_a_map)
 - [Quarter of the Year](Easy/quarter_of_the_year)
 - [Reversed Sequence](Easy/reversed_sequence)
 - [Remove String Spaces](Easy/remove_string_spaces)

@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
+
 fn main() {
     let test = [1, 2, 3, -4, -5];
     let res = invert(&test);
