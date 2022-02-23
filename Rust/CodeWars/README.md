@@ -14,3 +14,4 @@
 - [Reversed Sequence](Easy/reversed_sequence)
 - [The Feast of Many Beasts](Easy/feasts_of_beasts)
 - [Will There be Enough Space?](Easy/will_there_be_enough_space)
+- [Welcome!](Easy/welcome)
