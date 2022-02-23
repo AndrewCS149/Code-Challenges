@@ -6,6 +6,7 @@
 - [Can We Divide It?](Easy/can_divide)
 - [Century From Year](Easy/century_from_year)
 - [Calculate Average](Easy/calculate_avg)
+- [Get Nth Even Number](Easy/nth_even_number)
 - [Grasshopper](Easy/grasshopper)
 - [If you can't sleep, just count sheep!](Easy/cant_sleep_count_sheep)
 - [Is He Gonna Survive?](Easy/is_he_gonna_survive)
