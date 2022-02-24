@@ -3,3 +3,4 @@
 - [CodeWars](CodeWars)
 - [Hackerrank](Hackerrank)
 - [LeetCode](LeetCode)
+- [Other](Other)

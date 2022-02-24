@@ -46,12 +46,7 @@ namespace LetterCombinations
             string curKeys = keymap[(int)char.GetNumericValue(key)];
 
             for (int i = 0; i < curKeys.Length; i++)
-            {
-                if (curKeys.Length == 0)
-                    curStr += digits[idx];
-                else
-                    LetterCombos(digits, keymap, idx + 1, curStr + curKeys[i]);
-            }
+                LetterCombos(digits, keymap, idx + 1, curStr + curKeys[i]);
         }
     }
 }
