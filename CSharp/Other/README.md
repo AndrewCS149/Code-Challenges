@@ -35,6 +35,7 @@
 - [Is Prime Number](IsPrimeNumber/IsPrimeNumber)
 - [Hungry Hippos](HungryHippos/HungryHippos)
 - [Repeated Characters](RepeatedCharacters/RepeatedCharacters)
+- [Letter Combinations](LetterCombinations/LetterCombinations)
 - [Farthest Number Away from Correct Number](FartherNumber/FarthestNumber)
 - [IsPalindrome](IsPalindrome/IsPalindrome)
 - [Convert String to Number](StringConvert/StringConvert)
