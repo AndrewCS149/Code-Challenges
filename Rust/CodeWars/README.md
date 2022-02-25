@@ -16,6 +16,7 @@
 - [Reduce But Grow](Easy/reduce_but_grow)
 - [Reversed Sequence](Easy/reversed_sequence)
 - [Remove String Spaces](Easy/remove_string_spaces)
+- [String Repeat](Easy/string_repeat)
 - [The Feast of Many Beasts](Easy/feasts_of_beasts)
 - [Will There be Enough Space?](Easy/will_there_be_enough_space)
 - [Will You Make It?](Easy/will_you_make_it)
