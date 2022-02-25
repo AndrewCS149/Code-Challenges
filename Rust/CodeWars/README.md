@@ -13,6 +13,7 @@
 - [Invert Values](Easy/invert_values)
 - [Lost Wihtout a Map](Easy/lost_without_a_map)
 - [Quarter of the Year](Easy/quarter_of_the_year)
+- [Reduce But Grow](Easy/reduce_but_grow)
 - [Reversed Sequence](Easy/reversed_sequence)
 - [Remove String Spaces](Easy/remove_string_spaces)
 - [The Feast of Many Beasts](Easy/feasts_of_beasts)
