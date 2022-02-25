@@ -12,6 +12,7 @@
 - [Is He Gonna Survive?](Easy/is_he_gonna_survive)
 - [Invert Values](Easy/invert_values)
 - [Lost Wihtout a Map](Easy/lost_without_a_map)
+- [N-th Power](Easy/nth_power)
 - [Quarter of the Year](Easy/quarter_of_the_year)
 - [Reduce But Grow](Easy/reduce_but_grow)
 - [Reversed Sequence](Easy/reversed_sequence)
