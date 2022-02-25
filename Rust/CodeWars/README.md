@@ -18,4 +18,5 @@
 - [Remove String Spaces](Easy/remove_string_spaces)
 - [The Feast of Many Beasts](Easy/feasts_of_beasts)
 - [Will There be Enough Space?](Easy/will_there_be_enough_space)
+- [Will You Make It?](Easy/will_you_make_it)
 - [Welcome!](Easy/welcome)
