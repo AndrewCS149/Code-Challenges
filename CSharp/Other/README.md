@@ -10,6 +10,7 @@
 - [Kth Smallest Element](KthSmallestElement/KthSmallestElement)
 - [Find The Frequency](FindTheFrequency/FindTheFrequency)
 - [Can Sum Tabulation](CanSumTabulation/CanSumTabulation)
+- [How Sum Tabulation](HowSumTabulation/HowSumTabulation)
 - [Sort an Array of 0s, 1s and 2s](Sort012/Sort012)
 - [Fib Tabulation](FibTabulation/FibTabulation)
 - [Grid Traveler Tablulation](GridTravelerTabulation)
