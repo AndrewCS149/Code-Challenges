@@ -1,3 +1,4 @@
+- [Code Wars][CodeWars/README.md]
 - [Hackerrank Challenges](Hackerrank/README.md)
 - [LeetCode Challenges](LeetCode/README.md)
 - [Other](Other/README.md)

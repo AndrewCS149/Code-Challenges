@@ -11,6 +11,7 @@
 - [Find The Frequency](FindTheFrequency/FindTheFrequency)
 - [Can Sum Tabulation](CanSumTabulation/CanSumTabulation)
 - [How Sum Tabulation](HowSumTabulation/HowSumTabulation)
+- [Best Sum Tabulation](BestSumTabulation/BestSumTabulation)
 - [Sort an Array of 0s, 1s and 2s](Sort012/Sort012)
 - [Fib Tabulation](FibTabulation/FibTabulation)
 - [Grid Traveler Tablulation](GridTravelerTabulation)
