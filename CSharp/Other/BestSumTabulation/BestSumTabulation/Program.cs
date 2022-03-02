@@ -15,7 +15,7 @@ namespace BestSumTabulation
 			foreach(var n in BestSum(8, new int[]{1,4,5})) Console.Write(n + ", ");
 			Console.WriteLine();
 
-			foreach(var n in BestSum(100, new int[]{1,2,5,25})) Console.Write(n + ", ");
+			foreach(var n in BestSum(100, new int[]{50, 25, 5, 10})) Console.Write(n + ", ");
 			Console.WriteLine();
         }
 
@@ -29,22 +29,21 @@ namespace BestSumTabulation
 			{
 				if(table[i] != null) 
 				{
-					for(int j = 0; j < nums.Length; j++) 
+					foreach(int num in nums) 
 					{
-						if(i + nums[j] < table.Length) 
+						if(i + num < table.Length)
 						{
-							table[i + nums[j]] = new List<int>(table[i]);
-							table[i + nums[j]].Add(nums[j]);
+							var combination = new List<int>(table[i]);
+							combination.Add(num);
+
+							if(table[i + num] is null || combination.Count < table[i + num].Count)
+								table[i + num] = combination;
 						}
 					}
-
-					if(smallest.Count == 0 || table[i].Sum() == target && table[i].Count < smallest.Count)
-						smallest = table[i];
 				}
 			}
-	
 
-        	return smallest;
+        	return table[table.Length - 1];
         }
     }
 }
