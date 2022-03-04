@@ -8,6 +8,7 @@
 - [Calculate Average](Easy/calculate_avg)
 - [Get Nth Even Number](Easy/nth_even_number)
 - [Grasshopper](Easy/grasshopper)
+- [Highest And Lowest](Easy/highest_and_lowest)
 - [If you can't sleep, just count sheep!](Easy/cant_sleep_count_sheep)
 - [Is He Gonna Survive?](Easy/is_he_gonna_survive)
 - [Invert Values](Easy/invert_values)
