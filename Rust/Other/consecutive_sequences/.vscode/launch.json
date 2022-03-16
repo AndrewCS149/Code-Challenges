@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable 'consecutive_sequences'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=consecutive_sequences",
+                    "--package=consecutive_sequences"
+                ],
+                "filter": {
+                    "name": "consecutive_sequences",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable 'consecutive_sequences'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=consecutive_sequences",
+                    "--package=consecutive_sequences"
+                ],
+                "filter": {
+                    "name": "consecutive_sequences",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
