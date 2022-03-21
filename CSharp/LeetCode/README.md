@@ -57,6 +57,7 @@
 - [Self Dividing Numbers](Easy/SelfDividingNums/SelfDividingNums)
 - [Remove Vowels from a String](Easy/RemoveVowels/RemoveVowels)
 - [Sum of Unique Elements](Easy/SumOfUniqueElements/SumOfUniqueElements)
+- [Minimum Sum of Four Digit Number After Splitting Digits](Easy/MinSumOfFourDigits/MinSumOfFourDigits)
 - [Final Prices](Easy/FinalPrices/FinalPrices)
 - [Sort Array by Parity](Easy/SortByParity/SortByParity)
 - [Replace Elements with Greatest Element on Right Side](Easy/ReplaceElements/ReplaceElements)
