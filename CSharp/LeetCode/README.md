@@ -55,6 +55,7 @@
 - [Alternate Strings](Easy/AlternateStrings/AlternateStrings)
 - [Unique Integers Sum to Zero](Easy/IntsZeroSum/IntsZeroSum)
 - [Self Dividing Numbers](Easy/SelfDividingNums/SelfDividingNums)
+- [Remove Vowels from a String](Easy/RemoveVowels/RemoveVowels)
 - [Sum of Unique Elements](Easy/SumOfUniqueElements/SumOfUniqueElements)
 - [Final Prices](Easy/FinalPrices/FinalPrices)
 - [Sort Array by Parity](Easy/SortByParity/SortByParity)
