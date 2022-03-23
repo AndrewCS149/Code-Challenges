@@ -18,6 +18,7 @@
 - [Valid Parentheses](Easy/ValidParentheses/ValidParentheses)
 - [Palindrome Number](Easy/PalindromeNumber/PalindromeNumber)
 - [Final Value of Variable after Performing Operations](Easy/VariableValue/VariableValue)
+- [Single-Row Keyboard](Easy/SingleRowKeyboard/SingleRowKeyboard)
 - [Build Array from Permutation](Easy/BuildArray/BuildArray)
 - [Concatenation of Array](Easy/ConcatenationOfArray)
 - [Richest Customer Wealth](Easy/RichestCustomerWealth/RichestCustomerWealth)
