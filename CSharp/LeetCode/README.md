@@ -75,6 +75,7 @@
 
 #### Medium
 
+- [Merge Nodes in Between Zeros](Medium/MergeNodesBetweenZeros/MergeNodesBetweenZeros)
 - [WordBreak](Medium/WordBreakProblem/WordBreakProblem)
 - [Permutations](Medium/Permutations/Permutations)
 - [Count Square Submatrices with All Ones](Medium/CountSubmatrices/CountSubmatrices)
