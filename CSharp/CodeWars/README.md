@@ -8,6 +8,7 @@ Difficulty Levels from easiest to hardest: 8kyu - 1kyu
 
 #### 6kyu
 
+- [Array Diff](6kyu/ArrayDiff/ArrayDiff)
 - [Find the Odd Int](6kyu/FindTheOddInt/FindTheOddInt)
 - [Stop gninnipS My sdroW!](6kyu/Reverse5orMoreLetterWords/Reverse5orMoreLetterWords)
 - [Sum of Digits](6kyu/SumOfDigits/SumOfDigits)
