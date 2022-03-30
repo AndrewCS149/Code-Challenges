@@ -21,6 +21,15 @@ using System;
           	int NS = 0;
           	int EW = 0;
 
+			foreach (string dir in walk) 
+			{
+				if(dir == "n") NS++;
+				else if(dir == "s") NS--;
+				else if(dir == "e") EW++;
+				else EW--;
+			}
+
+			/*
           	foreach(string dir in walk) 
           	{
           		switch(dir) 
@@ -39,6 +48,7 @@ using System;
        					break;
           		}
           	}
+			*/
 
           	return NS == 0 && EW == 0 ? true : false;
           }
