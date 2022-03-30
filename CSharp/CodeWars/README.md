@@ -13,4 +13,5 @@ Difficulty Levels from easiest to hardest: 8kyu - 1kyu
 - [Find the Odd Int](6kyu/FindTheOddInt/FindTheOddInt)
 - [Stop gninnipS My sdroW!](6kyu/Reverse5orMoreLetterWords/Reverse5orMoreLetterWords)
 - [Sum of Digits](6kyu/SumOfDigits/SumOfDigits)
+- [Take a Ten Minutes Walk](6kyu/TakeATenMinWalk/TakeATenMinWalk)
 - [Who Likes It?](6kyu/WhoLikesIt/WhoLikesIt)
