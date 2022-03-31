@@ -4,6 +4,7 @@ Difficulty Levels from easiest to hardest: 8kyu - 1kyu
 
 #### 5kyu
 
+- [Directions Reduced](5kyu/DirectionsReduced/DirectionsReduced)
 - [Simple Pig Latin](5kyu/SimplePigLatin/SimplePigLatin)
 
 #### 6kyu
