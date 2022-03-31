@@ -10,6 +10,7 @@ Difficulty Levels from easiest to hardest: 8kyu - 1kyu
 
 - [Array Diff](6kyu/ArrayDiff/ArrayDiff)
 - [Counting Duplicates](6kyu/CountingDupes/CountingDupes)
+- [Duplicate Encoder](6kyu/DuplicateEncoder/DuplicateEncoder)
 - [Find the Odd Int](6kyu/FindTheOddInt/FindTheOddInt)
 - [Persistent Bugger](6kyu/PersistentBugger/PersistentBugger)
 - [Stop gninnipS My sdroW!](6kyu/Reverse5orMoreLetterWords/Reverse5orMoreLetterWords)
