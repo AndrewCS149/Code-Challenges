@@ -18,6 +18,7 @@
 - [Remove Duplicates from Sorted Array](Easy/RemoveDupesFromArray/RemoveDupesFromArray)
 - [Fibonacci Number](Easy/FibonacciNumber/FibonacciNumber)
 - [Tribonacci Number](Easy/TribonacciNumber/TribonacciNumber)
+- [Min Cost Climbing Stairs](Easy/MinCostClimbingStairs/MinCostClimbingStairs)
 - [Merge Two Lists](Easy/MergeTwoLists/MergeTwoLists)
 - [Valid Parentheses](Easy/ValidParentheses/ValidParentheses)
 - [Palindrome Number](Easy/PalindromeNumber/PalindromeNumber)
