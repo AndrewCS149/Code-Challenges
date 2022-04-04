@@ -15,6 +15,7 @@
 - [Sorting the Sentence](Easy/SortingTheSentence/SortingTheSentence)
 - [Max Number of Word Found in Sentences](Easy/MaxWords/MaxWords)
 - [Remove Duplicates from Sorted Array](Easy/RemoveDupesFromArray/RemoveDupesFromArray)
+- [Fibonacci Number](Easy/FibonacciNumber/FibonacciNumber)
 - [Merge Two Lists](Easy/MergeTwoLists/MergeTwoLists)
 - [Valid Parentheses](Easy/ValidParentheses/ValidParentheses)
 - [Palindrome Number](Easy/PalindromeNumber/PalindromeNumber)
