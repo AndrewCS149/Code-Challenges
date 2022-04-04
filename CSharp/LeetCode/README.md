@@ -10,6 +10,7 @@
 - [Min Operations to Make the Array Increasing](Easy/MinOperationsIncreasingArray/MinOperationsIncreasingArray)
 - [Find Greater Common Divisor of Array](Easy/GreatestCommonDivisor/GreatestCommonDivisor)
 - [Number of Strings that Appear as Substrings in Word](Easy/NumberOfStrings/NumberOfStrings)
+- [Climbing Stairs](Easy/ClimbingStairs/ClimbingStairs)
 - [Check if String is Pangram](Easy/IsPangram/IsPangram)
 - [Find First Palindrome in Array](Easy/FirstPalindrome/FirstPalindrome)
 - [Sorting the Sentence](Easy/SortingTheSentence/SortingTheSentence)
