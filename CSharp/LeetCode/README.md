@@ -16,6 +16,7 @@
 - [Max Number of Word Found in Sentences](Easy/MaxWords/MaxWords)
 - [Remove Duplicates from Sorted Array](Easy/RemoveDupesFromArray/RemoveDupesFromArray)
 - [Fibonacci Number](Easy/FibonacciNumber/FibonacciNumber)
+- [Tribonacci Number](Easy/TribonacciNumber/TribonacciNumber)
 - [Merge Two Lists](Easy/MergeTwoLists/MergeTwoLists)
 - [Valid Parentheses](Easy/ValidParentheses/ValidParentheses)
 - [Palindrome Number](Easy/PalindromeNumber/PalindromeNumber)
