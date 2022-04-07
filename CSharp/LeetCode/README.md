@@ -93,7 +93,7 @@
 - [Combination Sum III](Medium/CombiantionSumIII/CombinationSumIII) - unfinished
 - [Combination Sum](Medium/CombinationSum/CombinationSum) - unfinished
 - [3Sum Closest](Medium/Sum3Closest/Sum3Closest)
-- [House Robber](Medium/HouseRobber/HouseRobber) - unfinished (too slow)
+- [House Robber](Medium/HouseRobber/HouseRobber) 
 - [Integer to Roman](Medium/IntToRoman/IntToRoman)
 - [Generate Parentheses](Medium/GenerateParetheses/GenerateParetheses) - unfinished
 - [Letter Combinations of a Phone Number](Medium/LetterCombos/LetterCombos)
